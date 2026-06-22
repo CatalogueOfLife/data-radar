@@ -36,21 +36,20 @@ SYN3736	3736	synonym	Aceraceae	unranked
 1023	3056	accepted	Actaea	genus	Tracheophyta	Plantae
 1024	3056	accepted	Actaea spicata	species	Tracheophyta	Plantae
 1025	1028	accepted	Actinidia	genus	Tracheophyta	Plantae
-1028	x4S	accepted	Actinidiaceae	family	Tracheophyta	Plantae
+1028	x4	accepted	Actinidiaceae	family	Tracheophyta	Plantae
 1026	1028	accepted	Actinidia chinensis	species	Tracheophyta	Plantae
 1027	1028	accepted	Actinidia deliciosa	species	Tracheophyta	Plantae
 SYN3737	3737	synonym	Adiantaceae	unranked		
-1029	x4Z	accepted	Adiantum	genus	Tracheophyta	Plantae
-1030	x4Z	accepted	Adiantum capillus-veneris	species	Tracheophyta	Plantae
-1031	x4Z	accepted	Adiantum diaphanum	species	Tracheophyta	Plantae
-1032	x4Z	accepted	Adiantum raddianum	species	Tracheophyta	Plantae
+1030	1029	accepted	Adiantum capillus-veneris	species	Tracheophyta	Plantae
+1031	1029	accepted	Adiantum diaphanum	species	Tracheophyta	Plantae
+1032	1029	accepted	Adiantum raddianum	species	Tracheophyta	Plantae
 1033	3056	accepted	Adonis	genus	Tracheophyta	Plantae
 1034	3056	accepted	Adonis aestivalis	species	Tracheophyta	Plantae
 1035	3056	accepted	Adonis annua	species	Tracheophyta	Plantae
 1036	3056	accepted	Adonis flammea	species	Tracheophyta	Plantae
 1037	3056	accepted	Adonis vernalis	species	Tracheophyta	Plantae
 1038	1040	accepted	Adoxa	genus	Tracheophyta	Plantae
-1040	x4Q	accepted	Adoxaceae	family	Tracheophyta	Plantae
+1040	x4	accepted	Adoxaceae	family	Tracheophyta	Plantae
 1039	1040	accepted	Adoxa moschatellina	species	Tracheophyta	Plantae
 1041	1198	accepted	Aegopodium	genus	Tracheophyta	Plantae
 1042	1198	accepted	Aegopodium podagraria	species	Tracheophyta	Plantae
@@ -109,7 +108,7 @@ SYN3745	3745	synonym	Alchemilla gracilis	species
 1082	1085	accepted	Alisma gramineum	species	Tracheophyta	Plantae
 1083	1085	accepted	Alisma lanceolatum	species	Tracheophyta	Plantae
 1084	1085	accepted	Alisma plantago-aquatica	species	Tracheophyta	Plantae
-1085	xS	accepted	Alismataceae	family	Tracheophyta	Plantae
+1085	x4	accepted	Alismataceae	family	Tracheophyta	Plantae
 1086	3848	accepted	Alliaria	genus	Tracheophyta	Plantae
 1087	3848	accepted	Alliaria petiolata	species	Tracheophyta	Plantae
 1088	2423	accepted	Allium	genus	Tracheophyta	Plantae
@@ -144,7 +143,7 @@ SYN3745	3745	synonym	Alchemilla gracilis	species
 1117	3848	accepted	Alyssum	genus	Tracheophyta	Plantae
 1118	3848	accepted	Alyssum alyssoides	species	Tracheophyta	Plantae
 1119	3848	accepted	Alyssum saxatile	species	Tracheophyta	Plantae
-1120	xD	accepted	Amaranthaceae	family	Tracheophyta	Plantae
+1120	x4	accepted	Amaranthaceae	family	Tracheophyta	Plantae
 1121	1120	accepted	Amaranthus	genus	Tracheophyta	Plantae
 1122	1120	accepted	Amaranthus albus	species	Tracheophyta	Plantae
 1123	1120	accepted	Amaranthus blitoides	species	Tracheophyta	Plantae
@@ -162,7 +161,7 @@ SYN3749	3749	synonym	Amaranthus lividus	species
 1129	1120	accepted	Amaranthus retroflexus	species	Tracheophyta	Plantae
 1130	1120	accepted	Amaranthus rudis	species	Tracheophyta	Plantae
 1131	1120	accepted	Amaranthus standleyanus	species	Tracheophyta	Plantae
-1132	x3T	accepted	Amaryllidaceae	family	Tracheophyta	Plantae
+1132	x4	accepted	Amaryllidaceae	family	Tracheophyta	Plantae
 1133	1280	accepted	Ambrosia	genus	Tracheophyta	Plantae
 1134	1280	accepted	Ambrosia artemisiifolia	species	Tracheophyta	Plantae
 SYN3750	3750	synonym	Ambrosia coronopifolia	species		
@@ -179,7 +178,7 @@ SYN3750	3750	synonym	Ambrosia coronopifolia	species
 1144	1352	accepted	Amsinckia menziesii	species	Tracheophyta	Plantae
 1145	2706	accepted	Anacamptis	genus	Tracheophyta	Plantae
 1146	2706	accepted	Anacamptis pyramidalis	species	Tracheophyta	Plantae
-1147	x3M	accepted	Anacardiaceae	family	Tracheophyta	Plantae
+1147	x4	accepted	Anacardiaceae	family	Tracheophyta	Plantae
 1148	2988	accepted	Anagallis	genus	Tracheophyta	Plantae
 1149	2988	accepted	Anagallis arvensis	species	Tracheophyta	Plantae
 SYN3751	3751	synonym	Anagallis arvensis arvensis	subspecies		
@@ -238,14 +237,14 @@ SYN3754	3754	synonym	Antirrhinum orontium	species
 1195	3139	accepted	Aphanes	genus	Tracheophyta	Plantae
 1196	3139	accepted	Aphanes arvensis	species	Tracheophyta	Plantae
 1197	3139	accepted	Aphanes australis	species	Tracheophyta	Plantae
-1198	x3F	accepted	Apiaceae	family	Tracheophyta	Plantae
+1198	x4	accepted	Apiaceae	family	Tracheophyta	Plantae
 1199	1198	accepted	Apium	genus	Tracheophyta	Plantae
 1200	1198	accepted	Apium graveolens	species	Tracheophyta	Plantae
 1201	1198	accepted	Apium inundatum	species	Tracheophyta	Plantae
 1202	1198	accepted	Apium nodiflorum	species	Tracheophyta	Plantae
 1203	1198	accepted	Apium repens	species	Tracheophyta	Plantae
-3766	x4X	accepted	Apocynaceae	family	Tracheophyta	Plantae
-1204	x79	accepted	Aquifoliaceae	family	Tracheophyta	Plantae
+3766	x4	accepted	Apocynaceae	family	Tracheophyta	Plantae
+1204	x4	accepted	Aquifoliaceae	family	Tracheophyta	Plantae
 1205	3056	accepted	Aquilegia	genus	Tracheophyta	Plantae
 1206	3056	accepted	Aquilegia vulgaris	species	Tracheophyta	Plantae
 1207	3848	accepted	Arabidopsis	genus	Tracheophyta	Plantae
@@ -261,10 +260,10 @@ SYN3758	3758	synonym	Arabis hirsuta sagittata	subspecies
 3756	3848	accepted	Arabis hirsuta subsp. hirsuta	subspecies	Tracheophyta	Plantae
 3757	3848	accepted	Arabis hirsuta subsp. planisiliqua	subspecies	Tracheophyta	Plantae
 3758	3848	accepted	Arabis hirsuta subsp. sagittata	subspecies	Tracheophyta	Plantae
-1211	xS	accepted	Araceae	family	Tracheophyta	Plantae
+1211	x4	accepted	Araceae	family	Tracheophyta	Plantae
 1212	1999	accepted	Arachis	genus	Tracheophyta	Plantae
 1213	1999	accepted	Arachis hypogaea	species	Tracheophyta	Plantae
-1214	x3F	accepted	Araliaceae	family	Tracheophyta	Plantae
+1214	x4	accepted	Araliaceae	family	Tracheophyta	Plantae
 1215	1280	accepted	Arctium	genus	Tracheophyta	Plantae
 1216	1280	accepted	Arctium lappa	species	Tracheophyta	Plantae
 1217	1280	accepted	Arctium minus	species	Tracheophyta	Plantae
@@ -272,7 +271,7 @@ SYN3758	3758	synonym	Arabis hirsuta sagittata	subspecies
 1219	1280	accepted	Arctium tomentosum	species	Tracheophyta	Plantae
 1220	1944	accepted	Arctostaphylos	genus	Tracheophyta	Plantae
 1221	1944	accepted	Arctostaphylos uva-ursi	species	Tracheophyta	Plantae
-1222	x7W	accepted	Arecaceae	family	Tracheophyta	Plantae
+1222	x4	accepted	Arecaceae	family	Tracheophyta	Plantae
 1223	1538	accepted	Arenaria	genus	Tracheophyta	Plantae
 SYN3759	3759	synonym	Arenaria leptoclados	species		
 1224	1538	accepted	Arenaria serpyllifolia	species	Tracheophyta	Plantae
@@ -280,7 +279,7 @@ SYN3760	3760	synonym	Arenaria serpyllifolia serpyllifolia	subspecies
 3759	1538	accepted	Arenaria serpyllifolia subsp. leptoclados	subspecies	Tracheophyta	Plantae
 3760	1538	accepted	Arenaria serpyllifolia subsp. serpyllifolia	subspecies	Tracheophyta	Plantae
 1225	1227	accepted	Aristolochia	genus	Tracheophyta	Plantae
-1227	x3P	accepted	Aristolochiaceae	family	Tracheophyta	Plantae
+1227	x4	accepted	Aristolochiaceae	family	Tracheophyta	Plantae
 1226	1227	accepted	Aristolochia clematitis	species	Tracheophyta	Plantae
 1228	2890	accepted	Armeria	genus	Tracheophyta	Plantae
 1229	2890	accepted	Armeria maritima	species	Tracheophyta	Plantae
@@ -333,7 +332,7 @@ SYN3768	3768	synonym	Asparagus officinalis prostratus	subspecies
 1261	3146	accepted	Asperula cynanchica	species	Tracheophyta	Plantae
 SYN3769	3769	synonym	Asperula glauca	species		
 SYN3770	3770	synonym	Asperula odorata	species		
-1262	x48	accepted	Aspleniaceae	family	Tracheophyta	Plantae
+1262	x4	accepted	Aspleniaceae	family	Tracheophyta	Plantae
 1263	1262	accepted	Asplenium	genus	Tracheophyta	Plantae
 1264	1262	accepted	Asplenium adiantum-nigrum	species	Tracheophyta	Plantae
 1265	1262	accepted	Asplenium ceterach	species	Tracheophyta	Plantae
@@ -350,7 +349,7 @@ SYN3773	3773	synonym	Asplenium trichomanes trichomanes	subspecies
 1270	1262	accepted	Asplenium viride	species	Tracheophyta	Plantae
 1271	1280	accepted	Aster	genus	Tracheophyta	Plantae
 1279	1280	accepted	Aster × versicolor	species	Tracheophyta	Plantae
-1280	xQ	accepted	Asteraceae	family	Tracheophyta	Plantae
+1280	x4	accepted	Asteraceae	family	Tracheophyta	Plantae
 1281	1280	accepted	Asteraceae liguliflorae	species	Tracheophyta	Plantae
 1282	1280	accepted	Asteraceae tubuliflorae	species	Tracheophyta	Plantae
 1272	1280	accepted	Aster laevis	species	Tracheophyta	Plantae
@@ -361,9 +360,8 @@ SYN3773	3773	synonym	Asplenium trichomanes trichomanes	subspecies
 1278	1280	accepted	Aster tripolium f. discoideus	form	Tracheophyta	Plantae
 1283	1999	accepted	Astragalus	genus	Tracheophyta	Plantae
 1284	1999	accepted	Astragalus glycyphyllos	species	Tracheophyta	Plantae
-1285	x48	accepted	Athyriaceae	family	Tracheophyta	Plantae
-1286	x4N	accepted	Athyrium	genus	Tracheophyta	Plantae
-1287	x4N	accepted	Athyrium filix-femina	species	Tracheophyta	Plantae
+1285	x4	accepted	Athyriaceae	family	Tracheophyta	Plantae
+1287	1286	accepted	Athyrium filix-femina	species	Tracheophyta	Plantae
 1288	1120	accepted	Atriplex	genus	Tracheophyta	Plantae
 1290	1120	accepted	Atriplex glabriuscula	species	Tracheophyta	Plantae
 SYN3774	3774	synonym	Atriplex hastata	species		
@@ -405,7 +403,7 @@ SYN3780	3780	synonym	Ballota nigra foetida	subspecies
 SYN3781	3781	synonym	Ballota nigra nigra	subspecies		
 3780	2347	accepted	Ballota nigra subsp. foetida	subspecies	Tracheophyta	Plantae
 3781	2347	accepted	Ballota nigra subsp. nigra	subspecies	Tracheophyta	Plantae
-1316	x4S	accepted	Balsaminaceae	family	Tracheophyta	Plantae
+1316	x4	accepted	Balsaminaceae	family	Tracheophyta	Plantae
 1317	3848	accepted	Barbarea	genus	Tracheophyta	Plantae
 1318	3848	accepted	Barbarea intermedia	species	Tracheophyta	Plantae
 1319	3848	accepted	Barbarea stricta	species	Tracheophyta	Plantae
@@ -417,7 +415,7 @@ SYN3781	3781	synonym	Ballota nigra nigra	subspecies
 SYN3782	3782	synonym	Batrachium	unranked		
 1326	1280	accepted	Bellis	genus	Tracheophyta	Plantae
 1327	1280	accepted	Bellis perennis	species	Tracheophyta	Plantae
-1328	x3H	accepted	Berberidaceae	family	Tracheophyta	Plantae
+1328	x4	accepted	Berberidaceae	family	Tracheophyta	Plantae
 1329	1328	accepted	Berberis	genus	Tracheophyta	Plantae
 1330	1328	accepted	Berberis aggregata	species	Tracheophyta	Plantae
 1331	1328	accepted	Berberis aquifolium	species	Tracheophyta	Plantae
@@ -434,7 +432,7 @@ SYN3783	3783	synonym	Beta vulgaris maritima	subspecies
 3784	1120	accepted	Beta vulgaris subsp. vulgaris	subspecies	Tracheophyta	Plantae
 SYN3784	3784	synonym	Beta vulgaris vulgaris	subspecies		
 1339	1343	accepted	Betula	genus	Tracheophyta	Plantae
-1343	x5Y	accepted	Betulaceae	family	Tracheophyta	Plantae
+1343	x4	accepted	Betulaceae	family	Tracheophyta	Plantae
 1340	1343	accepted	Betula nana	species	Tracheophyta	Plantae
 1341	1343	accepted	Betula pendula	species	Tracheophyta	Plantae
 1342	1343	accepted	Betula pubescens	species	Tracheophyta	Plantae
@@ -456,13 +454,13 @@ SYN3790	3790	synonym	Blackstonia perfoliata perfoliata	subspecies
 SYN3791	3791	synonym	Blackstonia perfoliata serotina	subspecies		
 3790	2092	accepted	Blackstonia perfoliata subsp. perfoliata	subspecies	Tracheophyta	Plantae
 3791	2092	accepted	Blackstonia perfoliata subsp. serotina	subspecies	Tracheophyta	Plantae
-1349	x48	accepted	Blechnaceae	family	Tracheophyta	Plantae
+1349	x4	accepted	Blechnaceae	family	Tracheophyta	Plantae
 1350	1349	accepted	Blechnum	genus	Tracheophyta	Plantae
 1351	1349	accepted	Blechnum spicant	species	Tracheophyta	Plantae
 4113	1792	accepted	Blysmus compressus	species	Tracheophyta	Plantae
 4114	1792	accepted	Blysmus rufus	species	Tracheophyta	Plantae
 4111	1792	accepted	Bolboschoenus maritimus	species	Tracheophyta	Plantae
-1352	x37	accepted	Boraginaceae	family	Tracheophyta	Plantae
+1352	x4	accepted	Boraginaceae	family	Tracheophyta	Plantae
 1353	1352	accepted	Borago	genus	Tracheophyta	Plantae
 1354	1352	accepted	Borago officinalis	species	Tracheophyta	Plantae
 1355	2698	accepted	Botrychium	genus	Tracheophyta	Plantae
@@ -471,9 +469,8 @@ SYN3791	3791	synonym	Blackstonia perfoliata serotina	subspecies
 1358	2901	accepted	Brachypodium	genus	Tracheophyta	Plantae
 1359	2901	accepted	Brachypodium pinnatum	species	Tracheophyta	Plantae
 1360	2901	accepted	Brachypodium sylvaticum	species	Tracheophyta	Plantae
-1361	x5R	accepted	Brasenia	genus	Tracheophyta	Plantae
 1362	3848	accepted	Brassica	genus	Tracheophyta	Plantae
-3848	x3K	accepted	Brassicaceae	family	Tracheophyta	Plantae
+3848	x4	accepted	Brassicaceae	family	Tracheophyta	Plantae
 1363	3848	accepted	Brassica juncea	species	Tracheophyta	Plantae
 1364	3848	accepted	Brassica napus	species	Tracheophyta	Plantae
 1365	3848	accepted	Brassica nigra	species	Tracheophyta	Plantae
@@ -530,10 +527,10 @@ SYN3809	3809	synonym	Buglossoides arvensis	species
 1385	1198	accepted	Bupleurum rotundifolium	species	Tracheophyta	Plantae
 1386	1198	accepted	Bupleurum subovatum	species	Tracheophyta	Plantae
 1387	1198	accepted	Bupleurum tenuissimum	species	Tracheophyta	Plantae
-1388	xS	accepted	Butomaceae	family	Tracheophyta	Plantae
+1388	x4	accepted	Butomaceae	family	Tracheophyta	Plantae
 1389	1388	accepted	Butomus	genus	Tracheophyta	Plantae
 1390	1388	accepted	Butomus umbellatus	species	Tracheophyta	Plantae
-1391	x4G	accepted	Buxaceae	family	Tracheophyta	Plantae
+1391	x4	accepted	Buxaceae	family	Tracheophyta	Plantae
 1392	1391	accepted	Buxus	genus	Tracheophyta	Plantae
 1393	1391	accepted	Buxus sempervirens	species	Tracheophyta	Plantae
 1394	3848	accepted	Cakile	genus	Tracheophyta	Plantae
@@ -585,7 +582,7 @@ SYN3819	3819	synonym	Camelina sativa sativa	subspecies
 3819	3848	accepted	Camelina sativa subsp. sativa	subspecies	Tracheophyta	Plantae
 1425	1439	accepted	Campanula	genus	Tracheophyta	Plantae
 1426	1439	accepted	Campanula carpatica	species	Tracheophyta	Plantae
-1439	xQ	accepted	Campanulaceae	family	Tracheophyta	Plantae
+1439	x4	accepted	Campanulaceae	family	Tracheophyta	Plantae
 1427	1439	accepted	Campanula glomerata	species	Tracheophyta	Plantae
 1428	1439	accepted	Campanula latifolia	species	Tracheophyta	Plantae
 1429	1439	accepted	Campanula medium	species	Tracheophyta	Plantae
@@ -598,11 +595,11 @@ SYN3819	3819	synonym	Camelina sativa sativa	subspecies
 1436	1439	accepted	Campanula rhomboidalis	species	Tracheophyta	Plantae
 1437	1439	accepted	Campanula rotundifolia	species	Tracheophyta	Plantae
 1438	1439	accepted	Campanula trachelium	species	Tracheophyta	Plantae
-1440	x39	accepted	Cannabaceae	family	Tracheophyta	Plantae
+1440	x4	accepted	Cannabaceae	family	Tracheophyta	Plantae
 1441	1440	accepted	Cannabis	genus	Tracheophyta	Plantae
 1442	1440	accepted	Cannabis sativa	species	Tracheophyta	Plantae
-1443	x9C	accepted	Capparis spinosa	species	Tracheophyta	Plantae
-1444	x4Q	accepted	Caprifoliaceae	family	Tracheophyta	Plantae
+1443	x6	accepted	Capparis spinosa	species	Tracheophyta	Plantae
+1444	x4	accepted	Caprifoliaceae	family	Tracheophyta	Plantae
 1445	3848	accepted	Capsella	genus	Tracheophyta	Plantae
 1446	3848	accepted	Capsella bursa-pastoris	species	Tracheophyta	Plantae
 1447	3364	accepted	Capsicum	genus	Tracheophyta	Plantae
@@ -716,19 +713,19 @@ SYN3829	3829	synonym	Carex oederi oedocarpa	subspecies
 1535	1198	accepted	Carum carvi	species	Tracheophyta	Plantae
 1536	1198	accepted	Carum verticillatum	species	Tracheophyta	Plantae
 1537	1222	accepted	Caryocar nuciferum	species	Tracheophyta	Plantae
-1538	xD	accepted	Caryophyllaceae	family	Tracheophyta	Plantae
+1538	x4	accepted	Caryophyllaceae	family	Tracheophyta	Plantae
 1539	1999	accepted	Cassia europaea	species	Tracheophyta	Plantae
 1540	2000	accepted	Castanea	genus	Tracheophyta	Plantae
 1541	2000	accepted	Castanea sativa	species	Tracheophyta	Plantae
 1542	2901	accepted	Catabrosa	genus	Tracheophyta	Plantae
 1543	2901	accepted	Catabrosa aquatica	species	Tracheophyta	Plantae
-1544	x4L	accepted	Catalpa bignonioides	species	Tracheophyta	Plantae
+1544	x6	accepted	Catalpa bignonioides	species	Tracheophyta	Plantae
 3856	2901	accepted	Catapodium	genus	Tracheophyta	Plantae
 3857	2901	accepted	Catapodium marinum	species	Tracheophyta	Plantae
 3858	2901	accepted	Catapodium rigidum	species	Tracheophyta	Plantae
 1545	1198	accepted	Caucalis	genus	Tracheophyta	Plantae
 1546	1198	accepted	Caucalis platycarpos	species	Tracheophyta	Plantae
-1547	x8S	accepted	Celastraceae	family	Tracheophyta	Plantae
+1547	x4	accepted	Celastraceae	family	Tracheophyta	Plantae
 1548	1280	accepted	Centaurea	genus	Tracheophyta	Plantae
 1549	1280	accepted	Centaurea calcitrapa	species	Tracheophyta	Plantae
 1550	1280	accepted	Centaurea cyanus	species	Tracheophyta	Plantae
@@ -766,7 +763,7 @@ SYN3831	3831	synonym	Cerastium fontanum vulgare	subspecies
 1577	2768	accepted	Ceratocapnos claviculata	species	Tracheophyta	Plantae
 3795	2901	accepted	Ceratochloa carinata	species	Tracheophyta	Plantae
 3796	2901	accepted	Ceratochloa cathartica	species	Tracheophyta	Plantae
-1578	x6Z	accepted	Ceratophyllaceae	family	Tracheophyta	Plantae
+1578	x4	accepted	Ceratophyllaceae	family	Tracheophyta	Plantae
 1579	1578	accepted	Ceratophyllum	genus	Tracheophyta	Plantae
 1580	1578	accepted	Ceratophyllum demersum	species	Tracheophyta	Plantae
 1581	1578	accepted	Ceratophyllum submersum	species	Tracheophyta	Plantae
@@ -788,11 +785,11 @@ SYN3834	3834	synonym	Chamaenerion angustifolium	species
 3833	2689	accepted	Chamerion	genus	Tracheophyta	Plantae
 3834	2689	accepted	Chamerion angustifolium	species	Tracheophyta	Plantae
 1592	1593	accepted	Chara	genus	Tracheophyta	Plantae
-1593	x8Q	accepted	Characeae	family	Tracheophyta	Plantae
+1593	x4	accepted	Characeae	family	Tracheophyta	Plantae
 x5F	x4	accepted	Charophyta	phylum		Plantae
 1594	2768	accepted	Chelidonium	genus	Tracheophyta	Plantae
 1595	2768	accepted	Chelidonium majus	species	Tracheophyta	Plantae
-1596	xD	accepted	Chenopodiaceae	family	Tracheophyta	Plantae
+1596	x4	accepted	Chenopodiaceae	family	Tracheophyta	Plantae
 1597	1120	accepted	Chenopodium	genus	Tracheophyta	Plantae
 1598	1120	accepted	Chenopodium album	species	Tracheophyta	Plantae
 1599	1120	accepted	Chenopodium ambrosioides	species	Tracheophyta	Plantae
@@ -812,7 +809,6 @@ x5F	x4	accepted	Charophyta	phylum		Plantae
 1613	1120	accepted	Chenopodium rubrum	species	Tracheophyta	Plantae
 1614	1120	accepted	Chenopodium schraderianum	species	Tracheophyta	Plantae
 1615	1120	accepted	Chenopodium vulvaria	species	Tracheophyta	Plantae
-1616	x5T	accepted	Chionodoxa	genus	Tracheophyta	Plantae
 1617	1280	accepted	Chondrilla	genus	Tracheophyta	Plantae
 1618	1280	accepted	Chondrilla juncea	species	Tracheophyta	Plantae
 1619	1280	accepted	Chrysanthemum	genus	Tracheophyta	Plantae
@@ -831,7 +827,7 @@ SYN3836	3836	synonym	Chrysanthemum leucanthemum	species
 1630	1280	accepted	Cichorium intybus	species	Tracheophyta	Plantae
 1631	1198	accepted	Cicuta	genus	Tracheophyta	Plantae
 1632	1198	accepted	Cicuta virosa	species	Tracheophyta	Plantae
-1633	x93	accepted	Cinnamomum zeylanicum	species	Tracheophyta	Plantae
+1633	x6	accepted	Cinnamomum zeylanicum	species	Tracheophyta	Plantae
 1634	2689	accepted	Circaea	genus	Tracheophyta	Plantae
 1637	2689	accepted	Circaea × intermedia	species	Tracheophyta	Plantae
 1635	2689	accepted	Circaea alpina	species	Tracheophyta	Plantae
@@ -846,7 +842,7 @@ SYN3837	3837	synonym	Cirsium acaulon	species
 1642	1280	accepted	Cirsium oleraceum	species	Tracheophyta	Plantae
 1643	1280	accepted	Cirsium palustre	species	Tracheophyta	Plantae
 1644	1280	accepted	Cirsium vulgare	species	Tracheophyta	Plantae
-1646	xZ	accepted	Cistaceae	family	Tracheophyta	Plantae
+1646	x4	accepted	Cistaceae	family	Tracheophyta	Plantae
 1647	1646	accepted	Cistus	genus	Tracheophyta	Plantae
 1648	1646	accepted	Cistus albidus	species	Tracheophyta	Plantae
 1649	1646	accepted	Cistus clusii	species	Tracheophyta	Plantae
@@ -859,8 +855,7 @@ SYN3837	3837	synonym	Cirsium acaulon	species
 1656	3179	accepted	Citrus aurantium	species	Tracheophyta	Plantae
 1657	1792	accepted	Cladium	genus	Tracheophyta	Plantae
 1658	1792	accepted	Cladium mariscus	species	Tracheophyta	Plantae
-1659	x8V	accepted	Claviceps	genus	Tracheophyta	Plantae
-1660	x8V	accepted	Claviceps purpurea	species	Tracheophyta	Plantae
+1660	x6	accepted	Claviceps purpurea	species	Tracheophyta	Plantae
 1661	2947	accepted	Claytonia	genus	Tracheophyta	Plantae
 1662	2947	accepted	Claytonia perfoliata	species	Tracheophyta	Plantae
 1663	2947	accepted	Claytonia sibirica	species	Tracheophyta	Plantae
@@ -869,7 +864,7 @@ SYN3837	3837	synonym	Cirsium acaulon	species
 1666	3056	accepted	Clematis viticella	species	Tracheophyta	Plantae
 1667	1669	accepted	Clethra	genus	Tracheophyta	Plantae
 1668	1669	accepted	Clethra alnifolia	species	Tracheophyta	Plantae
-1669	x4S	accepted	Clethraceae	family	Tracheophyta	Plantae
+1669	x4	accepted	Clethraceae	family	Tracheophyta	Plantae
 1670	2347	accepted	Clinopodium	genus	Tracheophyta	Plantae
 4103	2347	accepted	Clinopodium acinos	species	Tracheophyta	Plantae
 3811	2347	accepted	Clinopodium calamintha	species	Tracheophyta	Plantae
@@ -901,7 +896,6 @@ SYN3842	3842	synonym	Coincya cheiranthos	species
 1686	1999	accepted	Colutea arborescens	species	Tracheophyta	Plantae
 1687	1999	accepted	Colutea orientalis	species	Tracheophyta	Plantae
 4051	3139	accepted	Comarum palustre	species	Tracheophyta	Plantae
-1689	x77	accepted	Commiphora	genus	Tracheophyta	Plantae
 1690	1198	accepted	Conium	genus	Tracheophyta	Plantae
 1691	1198	accepted	Conium maculatum	species	Tracheophyta	Plantae
 1692	3848	accepted	Conringia	genus	Tracheophyta	Plantae
@@ -913,7 +907,7 @@ SYN3843	3843	synonym	Consolida orientale	species
 3854	3056	accepted	Consolida regalis	species	Tracheophyta	Plantae
 1696	2423	accepted	Convallaria	genus	Tracheophyta	Plantae
 1697	2423	accepted	Convallaria majalis	species	Tracheophyta	Plantae
-1698	x46	accepted	Convolvulaceae	family	Tracheophyta	Plantae
+1698	x4	accepted	Convolvulaceae	family	Tracheophyta	Plantae
 1699	1698	accepted	Convolvulus	genus	Tracheophyta	Plantae
 1700	1698	accepted	Convolvulus arvensis	species	Tracheophyta	Plantae
 1701	1698	accepted	Convolvulus lineatus	species	Tracheophyta	Plantae
@@ -931,7 +925,7 @@ SYN3843	3843	synonym	Consolida orientale	species
 3844	1120	accepted	Corispermum intermedium	species	Tracheophyta	Plantae
 SYN3844	3844	synonym	Corispermum leptopterum	species		
 1710	1120	accepted	Corispermum marschallii	species	Tracheophyta	Plantae
-1711	x4J	accepted	Cornaceae	family	Tracheophyta	Plantae
+1711	x4	accepted	Cornaceae	family	Tracheophyta	Plantae
 1712	1711	accepted	Cornus	genus	Tracheophyta	Plantae
 1713	1711	accepted	Cornus mas	species	Tracheophyta	Plantae
 1714	1711	accepted	Cornus sanguinea	species	Tracheophyta	Plantae
@@ -946,7 +940,7 @@ SYN3845	3845	synonym	Coronilla varia	species
 1723	2768	accepted	Corydalis	genus	Tracheophyta	Plantae
 1724	2768	accepted	Corydalis cava	species	Tracheophyta	Plantae
 1725	2768	accepted	Corydalis solida	species	Tracheophyta	Plantae
-1726	x5Y	accepted	Corylaceae	family	Tracheophyta	Plantae
+1726	x4	accepted	Corylaceae	family	Tracheophyta	Plantae
 1727	1343	accepted	Corylus	genus	Tracheophyta	Plantae
 1728	1343	accepted	Corylus avellana	species	Tracheophyta	Plantae
 1729	2901	accepted	Corynephorus	genus	Tracheophyta	Plantae
@@ -965,7 +959,7 @@ SYN3845	3845	synonym	Coronilla varia	species
 1742	3848	accepted	Crambe	genus	Tracheophyta	Plantae
 1743	3848	accepted	Crambe maritima	species	Tracheophyta	Plantae
 1744	1745	accepted	Crassula	genus	Tracheophyta	Plantae
-1745	xV	accepted	Crassulaceae	family	Tracheophyta	Plantae
+1745	x4	accepted	Crassulaceae	family	Tracheophyta	Plantae
 4161	1745	accepted	Crassula tillaea	species	Tracheophyta	Plantae
 1746	3139	accepted	Crataegus	genus	Tracheophyta	Plantae
 1751	3139	accepted	Crataegus × macrocarpa	species	Tracheophyta	Plantae
@@ -998,10 +992,10 @@ SYN3848	3848	synonym	Cruciferae	unranked
 1768	1772	accepted	Cucumis melo	species	Tracheophyta	Plantae
 1769	1772	accepted	Cucumis sativus	species	Tracheophyta	Plantae
 1770	1772	accepted	Cucurbita	genus	Tracheophyta	Plantae
-1772	x68	accepted	Cucurbitaceae	family	Tracheophyta	Plantae
+1772	x4	accepted	Cucurbitaceae	family	Tracheophyta	Plantae
 1771	1772	accepted	Cucurbita pepo	species	Tracheophyta	Plantae
 1773	1198	accepted	Cuminum cyminum	species	Tracheophyta	Plantae
-1774	xG	accepted	Cupressaceae	family	Tracheophyta	Plantae
+1774	x4	accepted	Cupressaceae	family	Tracheophyta	Plantae
 1775	1774	accepted	Cupressus sempervirens	species	Tracheophyta	Plantae
 1776	1698	accepted	Cuscuta	genus	Tracheophyta	Plantae
 1777	1698	accepted	Cuscuta campestris	species	Tracheophyta	Plantae
@@ -1021,7 +1015,7 @@ SYN3849	3849	synonym	Cynanchum vincetoxicum	species
 1789	2901	accepted	Cynosurus	genus	Tracheophyta	Plantae
 1790	2901	accepted	Cynosurus cristatus	species	Tracheophyta	Plantae
 1791	2901	accepted	Cynosurus echinatus	species	Tracheophyta	Plantae
-1792	xB	accepted	Cyperaceae	family	Tracheophyta	Plantae
+1792	x4	accepted	Cyperaceae	family	Tracheophyta	Plantae
 1793	1792	accepted	Cyperus	genus	Tracheophyta	Plantae
 1794	1792	accepted	Cyperus eragrostis	species	Tracheophyta	Plantae
 1795	1792	accepted	Cyperus esculentus	species	Tracheophyta	Plantae
@@ -1030,9 +1024,8 @@ SYN3849	3849	synonym	Cynanchum vincetoxicum	species
 1798	1792	accepted	Cyperus longus	species	Tracheophyta	Plantae
 1799	1859	accepted	Cyrtomium	genus	Tracheophyta	Plantae
 1800	1859	accepted	Cyrtomium falcatum	species	Tracheophyta	Plantae
-1801	x4N	accepted	Cystopteris	genus	Tracheophyta	Plantae
 SYN3850	3850	synonym	Cystopteris filix-fragilis	species		
-3850	x4N	accepted	Cystopteris fragilis	species	Tracheophyta	Plantae
+3850	x6	accepted	Cystopteris fragilis	species	Tracheophyta	Plantae
 1802	1999	accepted	Cytisus	genus	Tracheophyta	Plantae
 4102	1999	accepted	Cytisus scoparius	species	Tracheophyta	Plantae
 1803	2901	accepted	Dactylis	genus	Tracheophyta	Plantae
@@ -1060,7 +1053,7 @@ SYN3852	3852	synonym	Daucus carota sativus	subspecies
 1815	2509	accepted	Decodon	genus	Tracheophyta	Plantae
 SYN3853	3853	synonym	Delia segetalis	species		
 SYN3854	3854	synonym	Delphinium consolida	species		
-3922	x48	accepted	Dennstaedtiaceae	family	Tracheophyta	Plantae
+3922	x4	accepted	Dennstaedtiaceae	family	Tracheophyta	Plantae
 SYN3855	3855	synonym	Dentaria bulbifera	species		
 1816	2901	accepted	Deschampsia	genus	Tracheophyta	Plantae
 1817	2901	accepted	Deschampsia cespitosa	species	Tracheophyta	Plantae
@@ -1071,11 +1064,10 @@ SYN3855	3855	synonym	Dentaria bulbifera	species
 SYN3856	3856	synonym	Desmazeria	unranked		
 SYN3857	3857	synonym	Desmazeria marina	species		
 SYN3858	3858	synonym	Desmazeria rigida	species		
-1821	x6L	accepted	Deutzia	genus	Tracheophyta	Plantae
-1824	x6L	accepted	Deutzia × lemoinei	species	Tracheophyta	Plantae
-1825	x6L	accepted	Deutzia × magnifica	species	Tracheophyta	Plantae
-1822	x6L	accepted	Deutzia gracilis	species	Tracheophyta	Plantae
-1823	x6L	accepted	Deutzia scabra	species	Tracheophyta	Plantae
+1824	x6	accepted	Deutzia × lemoinei	species	Tracheophyta	Plantae
+1825	x6	accepted	Deutzia × magnifica	species	Tracheophyta	Plantae
+1822	x6	accepted	Deutzia gracilis	species	Tracheophyta	Plantae
+1823	x6	accepted	Deutzia scabra	species	Tracheophyta	Plantae
 1826	1538	accepted	Dianthus	genus	Tracheophyta	Plantae
 1827	1538	accepted	Dianthus arenarius	species	Tracheophyta	Plantae
 1828	1538	accepted	Dianthus armeria	species	Tracheophyta	Plantae
@@ -1094,7 +1086,7 @@ SYN3860	3860	synonym	Diphasiastrum tristachyum	species
 1839	3848	accepted	Diplotaxis	genus	Tracheophyta	Plantae
 1840	3848	accepted	Diplotaxis muralis	species	Tracheophyta	Plantae
 1841	3848	accepted	Diplotaxis tenuifolia	species	Tracheophyta	Plantae
-1842	x4Q	accepted	Dipsacaceae	family	Tracheophyta	Plantae
+1842	x4	accepted	Dipsacaceae	family	Tracheophyta	Plantae
 1843	1444	accepted	Dipsacus	genus	Tracheophyta	Plantae
 1844	1444	accepted	Dipsacus fullonum	species	Tracheophyta	Plantae
 1845	1444	accepted	Dipsacus laciniatus	species	Tracheophyta	Plantae
@@ -1110,10 +1102,10 @@ SYN3861	3861	synonym	Doronicum wildenowii	species
 1853	1858	accepted	Drosera	genus	Tracheophyta	Plantae
 1857	1858	accepted	Drosera × obovata	species	Tracheophyta	Plantae
 1854	1858	accepted	Drosera anglica	species	Tracheophyta	Plantae
-1858	xD	accepted	Droseraceae	family	Tracheophyta	Plantae
+1858	x4	accepted	Droseraceae	family	Tracheophyta	Plantae
 1855	1858	accepted	Drosera intermedia	species	Tracheophyta	Plantae
 1856	1858	accepted	Drosera rotundifolia	species	Tracheophyta	Plantae
-1859	x48	accepted	Dryopteridaceae	family	Tracheophyta	Plantae
+1859	x4	accepted	Dryopteridaceae	family	Tracheophyta	Plantae
 1860	1859	accepted	Dryopteris	genus	Tracheophyta	Plantae
 1866	1859	accepted	Dryopteris × deweveri	species	Tracheophyta	Plantae
 1867	1859	accepted	Dryopteris × uliginosa	species	Tracheophyta	Plantae
@@ -1136,12 +1128,12 @@ SYN3862	3862	synonym	Dryopteris pseudomas	species
 1877	1352	accepted	Echium vulgare	species	Tracheophyta	Plantae
 1878	2241	accepted	Egeria	genus	Tracheophyta	Plantae
 1879	2241	accepted	Egeria densa	species	Tracheophyta	Plantae
-1880	x39	accepted	Elaeagnaceae	family	Tracheophyta	Plantae
+1880	x4	accepted	Elaeagnaceae	family	Tracheophyta	Plantae
 1881	1880	accepted	Elaeagnus	genus	Tracheophyta	Plantae
 1882	1880	accepted	Elaeagnus angustifolia	species	Tracheophyta	Plantae
 1883	1880	accepted	Elaeagnus commutata	species	Tracheophyta	Plantae
 1884	1880	accepted	Elaeagnus multiflora	species	Tracheophyta	Plantae
-1885	x3R	accepted	Elatinaceae	family	Tracheophyta	Plantae
+1885	x4	accepted	Elatinaceae	family	Tracheophyta	Plantae
 1886	1885	accepted	Elatine	genus	Tracheophyta	Plantae
 1887	1885	accepted	Elatine hexandra	species	Tracheophyta	Plantae
 1888	1885	accepted	Elatine hydropiper	species	Tracheophyta	Plantae
@@ -1173,7 +1165,7 @@ SYN3867	3867	synonym	Elymus arenarius	species
 3740	2901	accepted	Elytrigia juncea	species	Tracheophyta	Plantae
 3867	2901	accepted	Elytrigia maritima	species	Tracheophyta	Plantae
 3742	2901	accepted	Elytrigia repens	species	Tracheophyta	Plantae
-1902	x4S	accepted	Empetraceae	family	Tracheophyta	Plantae
+1902	x4	accepted	Empetraceae	family	Tracheophyta	Plantae
 1903	1944	accepted	Empetrum	genus	Tracheophyta	Plantae
 1904	1944	accepted	Empetrum nigrum	species	Tracheophyta	Plantae
 1905	2689	accepted	Epilobium	genus	Tracheophyta	Plantae
@@ -1203,7 +1195,7 @@ SYN3872	3872	synonym	Epipactis helleborine neerlandica	subspecies
 3872	2706	accepted	Epipactis helleborine subsp. neerlandica	subspecies	Tracheophyta	Plantae
 1920	2706	accepted	Epipactis muelleri	species	Tracheophyta	Plantae
 1921	2706	accepted	Epipactis palustris	species	Tracheophyta	Plantae
-1922	x48	accepted	Equisetaceae	family	Tracheophyta	Plantae
+1922	x4	accepted	Equisetaceae	family	Tracheophyta	Plantae
 1923	1922	accepted	Equisetum	genus	Tracheophyta	Plantae
 1932	1922	accepted	Equisetum × litorale	species	Tracheophyta	Plantae
 1933	1922	accepted	Equisetum × moorei	species	Tracheophyta	Plantae
@@ -1225,10 +1217,9 @@ SYN3874	3874	synonym	Eragrostis poaeoides	species
 1937	3056	accepted	Eranthis	genus	Tracheophyta	Plantae
 1938	3056	accepted	Eranthis hyemalis	species	Tracheophyta	Plantae
 1939	1944	accepted	Erica	genus	Tracheophyta	Plantae
-1944	x4S	accepted	Ericaceae	family	Tracheophyta	Plantae
+1944	x4	accepted	Ericaceae	family	Tracheophyta	Plantae
 1940	1944	accepted	Erica cinerea	species	Tracheophyta	Plantae
 1941	1944	accepted	Erica herbacea	species	Tracheophyta	Plantae
-1945	x99	accepted	Ericales	genus	Tracheophyta	Plantae
 1942	1944	accepted	Erica scoparia	species	Tracheophyta	Plantae
 1943	1944	accepted	Erica tetralix	species	Tracheophyta	Plantae
 1946	1280	accepted	Erigeron	genus	Tracheophyta	Plantae
@@ -1273,7 +1264,7 @@ SYN3880	3880	synonym	Eugenia caryophyllea	species
 1975	1280	accepted	Eupatorium cannabinum	species	Tracheophyta	Plantae
 1976	1991	accepted	Euphorbia	genus	Tracheophyta	Plantae
 1977	1991	accepted	Euphorbia amygdaloides	species	Tracheophyta	Plantae
-1991	x3R	accepted	Euphorbiaceae	family	Tracheophyta	Plantae
+1991	x4	accepted	Euphorbiaceae	family	Tracheophyta	Plantae
 1978	1991	accepted	Euphorbia cyparissias	species	Tracheophyta	Plantae
 1979	1991	accepted	Euphorbia epithymoides	species	Tracheophyta	Plantae
 1980	1991	accepted	Euphorbia esula	species	Tracheophyta	Plantae
@@ -1299,8 +1290,8 @@ SYN3882	3882	synonym	Euphorbia esula tommasiniana	subspecies
 1998	3808	accepted	Euphrasia tetraquetra	species	Tracheophyta	Plantae
 SYN3883	3883	synonym	Evonymus	unranked		
 SYN3884	3884	synonym	Evonymus europaeus	species		
-1999	x3C	accepted	Fabaceae	family	Tracheophyta	Plantae
-2000	x5Y	accepted	Fagaceae	family	Tracheophyta	Plantae
+1999	x4	accepted	Fabaceae	family	Tracheophyta	Plantae
+2000	x4	accepted	Fagaceae	family	Tracheophyta	Plantae
 2001	2915	accepted	Fagopyrum	genus	Tracheophyta	Plantae
 2002	2915	accepted	Fagopyrum esculentum	species	Tracheophyta	Plantae
 2003	2915	accepted	Fagopyrum tataricum	species	Tracheophyta	Plantae
@@ -1343,8 +1334,7 @@ SYN3892	3892	synonym	Festulolium loliacea (x-)	species
 4075	3056	accepted	Ficaria verna	species	Tracheophyta	Plantae
 2020	3056	accepted	Ficaria verna subsp. grandiflora	subspecies	Tracheophyta	Plantae
 4077	3056	accepted	Ficaria verna subsp. verna	subspecies	Tracheophyta	Plantae
-2021	x7T	accepted	Ficus	genus	Tracheophyta	Plantae
-2022	x7T	accepted	Ficus carica	species	Tracheophyta	Plantae
+2022	x6	accepted	Ficus carica	species	Tracheophyta	Plantae
 2023	1280	accepted	Filago	genus	Tracheophyta	Plantae
 3953	1280	accepted	Filago arvensis	species	Tracheophyta	Plantae
 SYN3893	3893	synonym	Filago germanica	species		
@@ -1430,7 +1420,7 @@ SYN3900	3900	synonym	Galium hercynicum	species
 2087	1999	accepted	Genista pilosa	species	Tracheophyta	Plantae
 2088	1999	accepted	Genista tinctoria	species	Tracheophyta	Plantae
 2089	2092	accepted	Gentiana	genus	Tracheophyta	Plantae
-2092	x4X	accepted	Gentianaceae	family	Tracheophyta	Plantae
+2092	x4	accepted	Gentianaceae	family	Tracheophyta	Plantae
 2090	2092	accepted	Gentiana cruciata	species	Tracheophyta	Plantae
 2091	2092	accepted	Gentiana pneumonanthe	species	Tracheophyta	Plantae
 2093	2092	accepted	Gentianella	genus	Tracheophyta	Plantae
@@ -1438,7 +1428,7 @@ SYN3900	3900	synonym	Galium hercynicum	species
 2095	2092	accepted	Gentianella campestris	species	Tracheophyta	Plantae
 2096	2092	accepted	Gentianella germanica	species	Tracheophyta	Plantae
 2097	2092	accepted	Gentianopsis ciliata	species	Tracheophyta	Plantae
-2098	x3W	accepted	Geraniaceae	family	Tracheophyta	Plantae
+2098	x4	accepted	Geraniaceae	family	Tracheophyta	Plantae
 2099	2098	accepted	Geranium	genus	Tracheophyta	Plantae
 2100	2098	accepted	Geranium columbinum	species	Tracheophyta	Plantae
 2101	2098	accepted	Geranium dissectum	species	Tracheophyta	Plantae
@@ -1490,17 +1480,16 @@ SYN3901	3901	synonym	Glyceria notata declinata	subspecies
 4047	2970	accepted	Groenlandia densa	species	Tracheophyta	Plantae
 2144	1280	accepted	Guizotia	genus	Tracheophyta	Plantae
 2145	1280	accepted	Guizotia abyssinica	species	Tracheophyta	Plantae
-2146	x7Y	accepted	Gunneraceae	family	Tracheophyta	Plantae
+2146	x4	accepted	Gunneraceae	family	Tracheophyta	Plantae
 SYN3902	3902	synonym	Guttiferae	unranked		
 2147	2706	accepted	Gymnadenia	genus	Tracheophyta	Plantae
 2148	2706	accepted	Gymnadenia conopsea	species	Tracheophyta	Plantae
-2149	x4N	accepted	Gymnocarpium	genus	Tracheophyta	Plantae
-4157	x4N	accepted	Gymnocarpium dryopteris	species	Tracheophyta	Plantae
-4159	x4N	accepted	Gymnocarpium robertianum	species	Tracheophyta	Plantae
+4157	x6	accepted	Gymnocarpium dryopteris	species	Tracheophyta	Plantae
+4159	x6	accepted	Gymnocarpium robertianum	species	Tracheophyta	Plantae
 2150	1538	accepted	Gypsophila	genus	Tracheophyta	Plantae
 2151	1538	accepted	Gypsophila muralis	species	Tracheophyta	Plantae
 2152	1538	accepted	Gypsophila paniculata	species	Tracheophyta	Plantae
-2153	xV	accepted	Haloragaceae	family	Tracheophyta	Plantae
+2153	x4	accepted	Haloragaceae	family	Tracheophyta	Plantae
 2154	2706	accepted	Hammarbya	genus	Tracheophyta	Plantae
 3966	2706	accepted	Hammarbya paludosa	species	Tracheophyta	Plantae
 2155	1214	accepted	Hedera	genus	Tracheophyta	Plantae
@@ -1614,13 +1603,13 @@ SYN3917	3917	synonym	Hordeum vulgare var. vulgare fo.te	variety
 2238	2423	accepted	Hyacinthus orientalis	species	Tracheophyta	Plantae
 2239	2241	accepted	Hydrocharis	genus	Tracheophyta	Plantae
 2240	2241	accepted	Hydrocharis morsus-ranae	species	Tracheophyta	Plantae
-2241	xS	accepted	Hydrocharitaceae	family	Tracheophyta	Plantae
+2241	x4	accepted	Hydrocharitaceae	family	Tracheophyta	Plantae
 2242	1198	accepted	Hydrocotyle	genus	Tracheophyta	Plantae
 2243	1198	accepted	Hydrocotyle vulgaris	species	Tracheophyta	Plantae
-2244	x37	accepted	Hydrophyllaceae	family	Tracheophyta	Plantae
+2244	x4	accepted	Hydrophyllaceae	family	Tracheophyta	Plantae
 2245	3364	accepted	Hyoscyamus	genus	Tracheophyta	Plantae
 2246	3364	accepted	Hyoscyamus niger	species	Tracheophyta	Plantae
-3902	x3R	accepted	Hypericaceae	family	Tracheophyta	Plantae
+3902	x4	accepted	Hypericaceae	family	Tracheophyta	Plantae
 2247	3902	accepted	Hypericum	genus	Tracheophyta	Plantae
 2255	3902	accepted	Hypericum × desetangsii	species	Tracheophyta	Plantae
 2248	3902	accepted	Hypericum canadense	species	Tracheophyta	Plantae
@@ -1661,13 +1650,13 @@ SYN3922	3922	synonym	Hypolepidaceae	unranked
 2277	1280	accepted	Inula conyzae	species	Tracheophyta	Plantae
 2278	1280	accepted	Inula helenium	species	Tracheophyta	Plantae
 2279	1280	accepted	Inula salicina	species	Tracheophyta	Plantae
-2280	x3T	accepted	Iridaceae	family	Tracheophyta	Plantae
+2280	x4	accepted	Iridaceae	family	Tracheophyta	Plantae
 2281	2280	accepted	Iris	genus	Tracheophyta	Plantae
 2282	2280	accepted	Iris foetidissima	species	Tracheophyta	Plantae
 2283	2280	accepted	Iris pseudacorus	species	Tracheophyta	Plantae
 2284	3848	accepted	Isatis	genus	Tracheophyta	Plantae
 2285	3848	accepted	Isatis tinctoria	species	Tracheophyta	Plantae
-2286	x82	accepted	Isoetaceae	family	Tracheophyta	Plantae
+2286	x4	accepted	Isoetaceae	family	Tracheophyta	Plantae
 2287	2286	accepted	Isoetes	genus	Tracheophyta	Plantae
 3923	2286	accepted	Isoetes echinospora	species	Tracheophyta	Plantae
 2288	2286	accepted	Isoetes lacustris	species	Tracheophyta	Plantae
@@ -1689,11 +1678,11 @@ SYN3925	3925	synonym	Jacobaea vulgaris vulgaris	subspecies
 2295	1439	accepted	Jasione montana	species	Tracheophyta	Plantae
 2296	2686	accepted	Jasminum	genus	Tracheophyta	Plantae
 2297	2686	accepted	Jasminum nudiflorum	species	Tracheophyta	Plantae
-2298	x5Y	accepted	Juglandaceae	family	Tracheophyta	Plantae
+2298	x4	accepted	Juglandaceae	family	Tracheophyta	Plantae
 2299	2298	accepted	Juglans	genus	Tracheophyta	Plantae
 2300	2298	accepted	Juglans regia	species	Tracheophyta	Plantae
-2301	xB	accepted	Juncaceae	family	Tracheophyta	Plantae
-2302	xS	accepted	Juncaginaceae	family	Tracheophyta	Plantae
+2301	x4	accepted	Juncaceae	family	Tracheophyta	Plantae
+2302	x4	accepted	Juncaginaceae	family	Tracheophyta	Plantae
 2303	2301	accepted	Juncus	genus	Tracheophyta	Plantae
 3933	2301	accepted	Juncus × kernreichgeltii	species	Tracheophyta	Plantae
 SYN3933	3933	synonym	Juncus × kern-reichgeltii	species		
@@ -1730,7 +1719,6 @@ SYN3932	3932	synonym	Juncus subuliflorus	species
 2322	2301	accepted	Juncus tenuis	species	Tracheophyta	Plantae
 2323	1774	accepted	Juniperus	genus	Tracheophyta	Plantae
 2324	1774	accepted	Juniperus communis	species	Tracheophyta	Plantae
-2325	x8D	accepted	Kaboutermutsje	genus	Indet.	Plantae
 2326	3808	accepted	Kickxia	genus	Tracheophyta	Plantae
 3950	3808	accepted	Kickxia elatine	species	Tracheophyta	Plantae
 3952	3808	accepted	Kickxia spuria	species	Tracheophyta	Plantae
@@ -1756,7 +1744,7 @@ SYN3934	3934	synonym	Koeleria cristata	species
 2344	1772	accepted	Lagenaria siceraria	species	Tracheophyta	Plantae
 2345	2901	accepted	Lagurus	genus	Tracheophyta	Plantae
 2346	2901	accepted	Lagurus ovatus	species	Tracheophyta	Plantae
-2347	xJ	accepted	Lamiaceae	family	Tracheophyta	Plantae
+2347	x4	accepted	Lamiaceae	family	Tracheophyta	Plantae
 2348	2347	accepted	Lamiastrum	genus	Tracheophyta	Plantae
 SYN3935	3935	synonym	Lamiastrum galeobdolon	species		
 3935	2347	accepted	Lamiastrum galeobdolon subsp. argentatum	subspecies	Tracheophyta	Plantae
@@ -1801,7 +1789,7 @@ SYN3941	3941	synonym	Lathyrus maritimus	species
 2374	1999	accepted	Lathyrus pratensis	species	Tracheophyta	Plantae
 2375	1999	accepted	Lathyrus sylvestris	species	Tracheophyta	Plantae
 2376	1999	accepted	Lathyrus tuberosus	species	Tracheophyta	Plantae
-2377	x93	accepted	Laurus nobilis	species	Tracheophyta	Plantae
+2377	x6	accepted	Laurus nobilis	species	Tracheophyta	Plantae
 2378	2347	accepted	Lavandula officinalis	species	Tracheophyta	Plantae
 2379	1944	accepted	Ledum	genus	Tracheophyta	Plantae
 2380	1944	accepted	Ledum groenlandicum	species	Tracheophyta	Plantae
@@ -1811,7 +1799,7 @@ SYN3941	3941	synonym	Lathyrus maritimus	species
 2384	1439	accepted	Legousia hybrida	species	Tracheophyta	Plantae
 2385	1439	accepted	Legousia speculum-veneris	species	Tracheophyta	Plantae
 2386	1211	accepted	Lemna	genus	Tracheophyta	Plantae
-2391	xS	accepted	Lemnaceae	family	Tracheophyta	Plantae
+2391	x4	accepted	Lemnaceae	family	Tracheophyta	Plantae
 2387	1211	accepted	Lemna gibba	species	Tracheophyta	Plantae
 2388	1211	accepted	Lemna minor	species	Tracheophyta	Plantae
 SYN3942	3942	synonym	Lemna minuscula	species		
@@ -1820,7 +1808,7 @@ SYN3942	3942	synonym	Lemna minuscula	species
 2390	1211	accepted	Lemna turionifera	species	Tracheophyta	Plantae
 2392	1999	accepted	Lens	genus	Tracheophyta	Plantae
 2393	1999	accepted	Lens culinaris	species	Tracheophyta	Plantae
-2394	xJ	accepted	Lentibulariaceae	family	Tracheophyta	Plantae
+2394	x4	accepted	Lentibulariaceae	family	Tracheophyta	Plantae
 2395	1280	accepted	Leontodon	genus	Tracheophyta	Plantae
 2396	1280	accepted	Leontodon autumnalis	species	Tracheophyta	Plantae
 2397	1280	accepted	Leontodon hispidus	species	Tracheophyta	Plantae
@@ -1855,7 +1843,7 @@ SYN3945	3945	synonym	Leucorchis albida	species
 2420	2686	accepted	Ligustrum	genus	Tracheophyta	Plantae
 2421	2686	accepted	Ligustrum ovalifolium	species	Tracheophyta	Plantae
 2422	2686	accepted	Ligustrum vulgare	species	Tracheophyta	Plantae
-2423	x33	accepted	Liliaceae	family	Tracheophyta	Plantae
+2423	x4	accepted	Liliaceae	family	Tracheophyta	Plantae
 2424	2423	accepted	Lilium	genus	Tracheophyta	Plantae
 3946	2423	accepted	Lilium bulbiferum	species	Tracheophyta	Plantae
 SYN3947	3947	synonym	Lilium bulbiferum bulbiferum	subspecies		
@@ -1863,7 +1851,7 @@ SYN3948	3948	synonym	Lilium bulbiferum croceum	subspecies
 3947	2423	accepted	Lilium bulbiferum subsp. bulbiferum	subspecies	Tracheophyta	Plantae
 3948	2423	accepted	Lilium bulbiferum subsp. croceum	subspecies	Tracheophyta	Plantae
 2425	2423	accepted	Lilium martagon	species	Tracheophyta	Plantae
-2426	x3K	accepted	Limnanthaceae	family	Tracheophyta	Plantae
+2426	x4	accepted	Limnanthaceae	family	Tracheophyta	Plantae
 2427	2426	accepted	Limnanthes	genus	Tracheophyta	Plantae
 2428	2426	accepted	Limnanthes alba	species	Tracheophyta	Plantae
 2429	2426	accepted	Limnanthes douglasii	species	Tracheophyta	Plantae
@@ -1872,7 +1860,7 @@ SYN3948	3948	synonym	Lilium bulbiferum croceum	subspecies
 2432	2890	accepted	Limonium vulgare	species	Tracheophyta	Plantae
 2433	3808	accepted	Limosella	genus	Tracheophyta	Plantae
 2434	3808	accepted	Limosella aquatica	species	Tracheophyta	Plantae
-2435	x3R	accepted	Linaceae	family	Tracheophyta	Plantae
+2435	x4	accepted	Linaceae	family	Tracheophyta	Plantae
 2436	3808	accepted	Linaria	genus	Tracheophyta	Plantae
 2437	3808	accepted	Linaria arvensis	species	Tracheophyta	Plantae
 SYN3949	3949	synonym	Linaria cymbalaria	species		
@@ -1953,7 +1941,7 @@ SYN3961	3961	synonym	Lychnis viscaria	species
 2494	3364	accepted	Lycium	genus	Tracheophyta	Plantae
 2495	3364	accepted	Lycium barbarum	species	Tracheophyta	Plantae
 SYN3962	3962	synonym	Lycopersicon esculentum	species		
-2496	x4D	accepted	Lycopodiaceae	family	Tracheophyta	Plantae
+2496	x4	accepted	Lycopodiaceae	family	Tracheophyta	Plantae
 3963	2496	accepted	Lycopodiella inundata	species	Tracheophyta	Plantae
 2497	2496	accepted	Lycopodium	genus	Tracheophyta	Plantae
 2498	2496	accepted	Lycopodium annotinum	species	Tracheophyta	Plantae
@@ -1972,7 +1960,7 @@ SYN3965	3965	synonym	Lycopsis arvensis	species
 2506	2988	accepted	Lysimachia punctata	species	Tracheophyta	Plantae
 2507	2988	accepted	Lysimachia thyrsiflora	species	Tracheophyta	Plantae
 2508	2988	accepted	Lysimachia vulgaris	species	Tracheophyta	Plantae
-2509	x35	accepted	Lythraceae	family	Tracheophyta	Plantae
+2509	x4	accepted	Lythraceae	family	Tracheophyta	Plantae
 2510	2509	accepted	Lythrum	genus	Tracheophyta	Plantae
 2511	2509	accepted	Lythrum hyssopifolia	species	Tracheophyta	Plantae
 2512	2509	accepted	Lythrum junceum	species	Tracheophyta	Plantae
@@ -1980,7 +1968,7 @@ SYN3965	3965	synonym	Lycopsis arvensis	species
 2513	2509	accepted	Lythrum salicaria	species	Tracheophyta	Plantae
 2514	2516	accepted	Magnolia	genus	Tracheophyta	Plantae
 2515	2516	accepted	Magnolia × soulangeana	species	Tracheophyta	Plantae
-2516	x6J	accepted	Magnoliaceae	family	Tracheophyta	Plantae
+2516	x4	accepted	Magnoliaceae	family	Tracheophyta	Plantae
 2517	1328	accepted	Mahonia	genus	Tracheophyta	Plantae
 2518	2423	accepted	Maianthemum	genus	Tracheophyta	Plantae
 2519	2423	accepted	Maianthemum bifolium	species	Tracheophyta	Plantae
@@ -1994,7 +1982,7 @@ SYN3966	3966	synonym	Malaxis paludosa	species
 2526	3139	accepted	Malus sylvestris	species	Tracheophyta	Plantae
 2527	2534	accepted	Malva	genus	Tracheophyta	Plantae
 2528	2534	accepted	Malva alcea	species	Tracheophyta	Plantae
-2534	xZ	accepted	Malvaceae	family	Tracheophyta	Plantae
+2534	x4	accepted	Malvaceae	family	Tracheophyta	Plantae
 2529	2534	accepted	Malva moschata	species	Tracheophyta	Plantae
 3967	2534	accepted	Malva neglecta	species	Tracheophyta	Plantae
 SYN3967	3967	synonym	Malva neglecta pusilla	infraspecific name		
@@ -2003,16 +1991,15 @@ SYN3967	3967	synonym	Malva neglecta pusilla	infraspecific name
 2532	2534	accepted	Malva sylvestris	species	Tracheophyta	Plantae
 2533	2534	accepted	Malva verticillata	species	Tracheophyta	Plantae
 2535	2347	accepted	Marrubium	genus	Tracheophyta	Plantae
-2536	x6S	accepted	Marrubium vulgare	species	Tracheophyta	Plantae
-2538	xQ	accepted	Marsileaceae	family	Tracheophyta	Plantae
-2537	x84	accepted	Marsilea quadrifolia	species	Tracheophyta	Plantae
+2536	x6	accepted	Marrubium vulgare	species	Tracheophyta	Plantae
+2538	x4	accepted	Marsileaceae	family	Tracheophyta	Plantae
+2537	x6	accepted	Marsilea quadrifolia	species	Tracheophyta	Plantae
 2539	1280	accepted	Matricaria	genus	Tracheophyta	Plantae
 3970	1280	accepted	Matricaria chamomilla	species	Tracheophyta	Plantae
 2540	1280	accepted	Matricaria discoidea	species	Tracheophyta	Plantae
 SYN3968	3968	synonym	Matricaria maritima	species		
 SYN3969	3969	synonym	Matricaria maritima subsp. inodora	subspecies		
 SYN3970	3970	synonym	Matricaria matricarioides	species		
-2541	x4N	accepted	Matteuccia	genus	Tracheophyta	Plantae
 2542	2768	accepted	Matteuccia struthiopteris	species	Tracheophyta	Plantae
 2543	1999	accepted	Meconopsis cambrica	species	Tracheophyta	Plantae
 2544	1999	accepted	Medicago	genus	Tracheophyta	Plantae
@@ -2058,7 +2045,7 @@ SYN3979	3979	synonym	Mentha × niliaca	species
 2565	2347	accepted	Mentha pulegium	species	Tracheophyta	Plantae
 2566	2347	accepted	Mentha spicata	species	Tracheophyta	Plantae
 2567	2347	accepted	Mentha suaveolens	species	Tracheophyta	Plantae
-2571	xQ	accepted	Menyanthaceae	family	Tracheophyta	Plantae
+2571	x4	accepted	Menyanthaceae	family	Tracheophyta	Plantae
 2572	2571	accepted	Menyanthes	genus	Tracheophyta	Plantae
 2573	2571	accepted	Menyanthes trifoliata	species	Tracheophyta	Plantae
 2574	1991	accepted	Mercurialis	genus	Tracheophyta	Plantae
@@ -2097,10 +2084,9 @@ SYN3982	3982	synonym	Monotropa hypopitys hypopitys	subspecies
 3983	2947	accepted	Montia fontana	species	Tracheophyta	Plantae
 SYN3984	3984	synonym	Montia fontana subsp. fontana	subspecies		
 2599	2947	accepted	Montia minor	species	Tracheophyta	Plantae
-3989	x5Y	accepted	Moraceae	family	Tracheophyta	Plantae
-2600	x7T	accepted	Morella caroliniensis	species	Tracheophyta	Plantae
-2601	x7T	accepted	Morus	genus	Tracheophyta	Plantae
-2602	x7T	accepted	Morus nigra	species	Tracheophyta	Plantae
+3989	x4	accepted	Moraceae	family	Tracheophyta	Plantae
+2600	x6	accepted	Morella caroliniensis	species	Tracheophyta	Plantae
+2602	x6	accepted	Morus nigra	species	Tracheophyta	Plantae
 2603	2423	accepted	Muscari	genus	Tracheophyta	Plantae
 3985	2423	accepted	Muscari armeniacum	species	Tracheophyta	Plantae
 SYN3985	3985	synonym	Muscari armeniacum botryoides	infraspecific name		
@@ -2125,7 +2111,7 @@ SYN3988	3988	synonym	Myosotis scorpioides scorpioides	subspecies
 2616	3056	accepted	Myosurus minimus	species	Tracheophyta	Plantae
 2617	2619	accepted	Myrica	genus	Tracheophyta	Plantae
 SYN3989	3989	synonym	Myrica caroliniensis	species		
-2619	x5Y	accepted	Myricaceae	family	Tracheophyta	Plantae
+2619	x4	accepted	Myricaceae	family	Tracheophyta	Plantae
 2618	2619	accepted	Myrica gale	species	Tracheophyta	Plantae
 2620	2153	accepted	Myriophyllum	genus	Tracheophyta	Plantae
 2621	2153	accepted	Myriophyllum alterniflorum	species	Tracheophyta	Plantae
@@ -2134,9 +2120,9 @@ SYN3989	3989	synonym	Myrica caroliniensis	species
 2624	2153	accepted	Myriophyllum verticillatum	species	Tracheophyta	Plantae
 2625	1198	accepted	Myrrhis	genus	Tracheophyta	Plantae
 2626	1198	accepted	Myrrhis odorata	species	Tracheophyta	Plantae
-2627	x35	accepted	Myrtaceae	family	Tracheophyta	Plantae
+2627	x4	accepted	Myrtaceae	family	Tracheophyta	Plantae
 2628	2627	accepted	Myrtus communis	species	Tracheophyta	Plantae
-2629	xS	accepted	Najadaceae	family	Tracheophyta	Plantae
+2629	x4	accepted	Najadaceae	family	Tracheophyta	Plantae
 2630	2241	accepted	Najas	genus	Tracheophyta	Plantae
 2631	2241	accepted	Najas marina	species	Tracheophyta	Plantae
 2632	2241	accepted	Najas minor	species	Tracheophyta	Plantae
@@ -2172,15 +2158,14 @@ SYN3991	3991	synonym	Narcissus pseudonarcissus pseudonarcissus	subspecies
 2655	3364	accepted	Nicotiana tabacum	species	Tracheophyta	Plantae
 2656	3056	accepted	Nigella	genus	Tracheophyta	Plantae
 2657	3056	accepted	Nigella arvensis	species	Tracheophyta	Plantae
-2658	x5M	accepted	Nigella damascena	species	Charophyta	Plantae
-2659	x66	accepted	Nitella	genus	Charophyta	Plantae
+2658	x5F	accepted	Nigella damascena	species	Charophyta	Plantae
 2660	2666	accepted	Nonea lutea	species	Tracheophyta	Plantae
 2661	2666	accepted	Nuphar	genus	Tracheophyta	Plantae
 2662	2666	accepted	Nuphar lutea	species	Tracheophyta	Plantae
 2663	2666	accepted	Nymphaea	genus	Tracheophyta	Plantae
 2664	2666	accepted	Nymphaea alba	species	Tracheophyta	Plantae
 2665	2666	accepted	Nymphaea candida	species	Tracheophyta	Plantae
-2666	x5P	accepted	Nymphaeaceae	family	Tracheophyta	Plantae
+2666	x4	accepted	Nymphaeaceae	family	Tracheophyta	Plantae
 2667	2571	accepted	Nymphoides	genus	Tracheophyta	Plantae
 2668	2571	accepted	Nymphoides peltata	species	Tracheophyta	Plantae
 SYN3992	3992	synonym	Obione pedunculata	species		
@@ -2211,15 +2196,14 @@ SYN3998	3998	synonym	Oenothera biennis erythrosepala	infraspecific name
 2682	2689	accepted	Oenothera glazioviana	species	Tracheophyta	Plantae
 2683	2689	accepted	Oenothera oakesiana	species	Tracheophyta	Plantae
 2684	2686	accepted	Olea	genus	Tracheophyta	Plantae
-2686	xJ	accepted	Oleaceae	family	Tracheophyta	Plantae
+2686	x4	accepted	Oleaceae	family	Tracheophyta	Plantae
 2685	2686	accepted	Olea europaea	species	Tracheophyta	Plantae
 2687	1352	accepted	Omphalodes	genus	Tracheophyta	Plantae
 2688	1352	accepted	Omphalodes verna	species	Tracheophyta	Plantae
-2689	x35	accepted	Onagraceae	family	Tracheophyta	Plantae
+2689	x4	accepted	Onagraceae	family	Tracheophyta	Plantae
 2690	1999	accepted	Onobrychis	genus	Tracheophyta	Plantae
-2691	x7R	accepted	Onobrychis viciifolia	species	Tracheophyta	Plantae
-2692	x4N	accepted	Onoclea	genus	Tracheophyta	Plantae
-2693	xN	accepted	Onoclea sensibilis	species	Tracheophyta	Plantae
+2691	x6	accepted	Onobrychis viciifolia	species	Tracheophyta	Plantae
+2693	x6	accepted	Onoclea sensibilis	species	Tracheophyta	Plantae
 2694	1999	accepted	Ononis	genus	Tracheophyta	Plantae
 3999	1999	accepted	Ononis repens	species	Tracheophyta	Plantae
 SYN3999	3999	synonym	Ononis repens repens	subspecies		
@@ -2227,16 +2211,16 @@ SYN4000	4000	synonym	Ononis repens spinosa	subspecies
 4000	1999	accepted	Ononis repens subsp. repens	subspecies	Tracheophyta	Plantae
 2695	1999	accepted	Ononis repens subsp. spinosa	subspecies	Tracheophyta	Plantae
 2696	1280	accepted	Onopordum	genus	Tracheophyta	Plantae
-2697	x6D	accepted	Onopordum acanthium	species	Tracheophyta	Plantae
-2698	x6X	accepted	Ophioglossaceae	family	Tracheophyta	Plantae
+2697	x6	accepted	Onopordum acanthium	species	Tracheophyta	Plantae
+2698	x4	accepted	Ophioglossaceae	family	Tracheophyta	Plantae
 2699	2698	accepted	Ophioglossum	genus	Tracheophyta	Plantae
 2700	2698	accepted	Ophioglossum azoricurn	species	Tracheophyta	Plantae
-2701	x8L	accepted	Ophioglossum vulgatum	species	Tracheophyta	Plantae
+2701	x6	accepted	Ophioglossum vulgatum	species	Tracheophyta	Plantae
 2702	2706	accepted	Ophrys	genus	Tracheophyta	Plantae
 2703	2706	accepted	Ophrys apifera	species	Tracheophyta	Plantae
 2704	2706	accepted	Ophrys insectifera	species	Tracheophyta	Plantae
 2705	2706	accepted	Ophrys sphegodes	species	Tracheophyta	Plantae
-2706	x3T	accepted	Orchidaceae	family	Tracheophyta	Plantae
+2706	x4	accepted	Orchidaceae	family	Tracheophyta	Plantae
 2707	2706	accepted	Orchis	genus	Tracheophyta	Plantae
 2708	2706	accepted	Orchis coriophora	species	Tracheophyta	Plantae
 SYN4001	4001	synonym	Orchis incarnata	species		
@@ -2248,9 +2232,9 @@ SYN4003	4003	synonym	Orchis majalis	species
 SYN4004	4004	synonym	Orchis praetermissa	species		
 2712	2706	accepted	Orchis purpurea	species	Tracheophyta	Plantae
 2713	2706	accepted	Orchis simia	species	Tracheophyta	Plantae
-2714	x9H	accepted	Orchis ustulata	species	Tracheophyta	Plantae
+2714	x6	accepted	Orchis ustulata	species	Tracheophyta	Plantae
 2715	3498	accepted	Oreopteris	genus	Tracheophyta	Plantae
-2716	x8G	accepted	Oreopteris limbosperma	species	Tracheophyta	Plantae
+2716	x6	accepted	Oreopteris limbosperma	species	Tracheophyta	Plantae
 2717	2347	accepted	Origanum	genus	Tracheophyta	Plantae
 2718	2347	accepted	Origanum majorana	species	Tracheophyta	Plantae
 2719	2347	accepted	Origanum vulgare	species	Tracheophyta	Plantae
@@ -2267,7 +2251,7 @@ SYN4006	4006	synonym	Ornithogalum umbellatum umbellatum	subspecies
 2726	1999	accepted	Ornithopus	genus	Tracheophyta	Plantae
 2727	1999	accepted	Ornithopus perpusillus	species	Tracheophyta	Plantae
 2728	1999	accepted	Ornithopus sativus	species	Tracheophyta	Plantae
-2729	xJ	accepted	Orobanchaceae	family	Tracheophyta	Plantae
+2729	x4	accepted	Orobanchaceae	family	Tracheophyta	Plantae
 2730	2729	accepted	Orobanche	genus	Tracheophyta	Plantae
 4007	2729	accepted	Orobanche caryophyllacea	species	Tracheophyta	Plantae
 2731	2729	accepted	Orobanche elatior	species	Tracheophyta	Plantae
@@ -2283,11 +2267,10 @@ SYN4007	4007	synonym	Orobanche major	species
 2740	1944	accepted	Orthilia	genus	Tracheophyta	Plantae
 2741	1944	accepted	Orthilia secunda	species	Tracheophyta	Plantae
 2742	2901	accepted	Oryza	genus	Tracheophyta	Plantae
-2743	x44	accepted	Oryza sativa	species	Tracheophyta	Plantae
-2744	x7F	accepted	Osmunda	genus	Tracheophyta	Plantae
-2746	xL	accepted	Osmundaceae	family	Tracheophyta	Plantae
-2745	x7F	accepted	Osmunda regalis	species	Tracheophyta	Plantae
-2747	x62	accepted	Oxalidaceae	family	Tracheophyta	Plantae
+2743	x6	accepted	Oryza sativa	species	Tracheophyta	Plantae
+2746	x4	accepted	Osmundaceae	family	Tracheophyta	Plantae
+2745	x6	accepted	Osmunda regalis	species	Tracheophyta	Plantae
+2747	x4	accepted	Oxalidaceae	family	Tracheophyta	Plantae
 2748	2747	accepted	Oxalis	genus	Tracheophyta	Plantae
 2749	2747	accepted	Oxalis acetosella	species	Tracheophyta	Plantae
 2750	2747	accepted	Oxalis corniculata	species	Tracheophyta	Plantae
@@ -2302,7 +2285,7 @@ SYN4007	4007	synonym	Orobanche major	species
 2759	2901	accepted	Panicum schinzii	species	Tracheophyta	Plantae
 2760	2768	accepted	Papaver	genus	Tracheophyta	Plantae
 2767	2768	accepted	Papaver × exspectatum	species	Tracheophyta	Plantae
-2768	x3H	accepted	Papaveraceae	family	Tracheophyta	Plantae
+2768	x4	accepted	Papaveraceae	family	Tracheophyta	Plantae
 2761	2768	accepted	Papaver argemone	species	Tracheophyta	Plantae
 2762	2768	accepted	Papaver atlanticum	species	Tracheophyta	Plantae
 2763	2768	accepted	Papaver dubium	species	Tracheophyta	Plantae
@@ -2332,8 +2315,8 @@ SYN4009	4009	synonym	Papaver somniferum somniferum	subspecies
 4010	1198	accepted	Pastinaca sativa	species	Tracheophyta	Plantae
 2785	1198	accepted	Pastinaca sativa subsp. urens	subspecies	Tracheophyta	Plantae
 SYN4010	4010	synonym	Pastinaca sativa urens	subspecies		
-2786	x97	accepted	Paulownia tomentosa	species	Tracheophyta	Plantae
-2787	xJ	accepted	Pedaliaceae	family	Tracheophyta	Plantae
+2786	x6	accepted	Paulownia tomentosa	species	Tracheophyta	Plantae
+2787	x4	accepted	Pedaliaceae	family	Tracheophyta	Plantae
 2788	3808	accepted	Pedicularis	genus	Tracheophyta	Plantae
 2789	3808	accepted	Pedicularis palustris	species	Tracheophyta	Plantae
 2790	3808	accepted	Pedicularis sylvatica	species	Tracheophyta	Plantae
@@ -2376,15 +2359,14 @@ SYN4011	4011	synonym	Peplis portula	species
 2813	2901	accepted	Phalaris canariensis	species	Tracheophyta	Plantae
 2814	1999	accepted	Phaseolus	genus	Tracheophyta	Plantae
 2815	1999	accepted	Phaseolus coccineus	species	Tracheophyta	Plantae
-2816	x7R	accepted	Phaseolus vulgaris	species	Tracheophyta	Plantae
+2816	x6	accepted	Phaseolus vulgaris	species	Tracheophyta	Plantae
 4158	3498	accepted	Phegopteris	genus	Tracheophyta	Plantae
-2817	x8G	accepted	Phegopteris connectilis	species	Tracheophyta	Plantae
+2817	x6	accepted	Phegopteris connectilis	species	Tracheophyta	Plantae
 2818	3179	accepted	Phellodendron	genus	Tracheophyta	Plantae
 2819	3179	accepted	Phellodendron elegans	species	Tracheophyta	Plantae
-2820	x6L	accepted	Philadelphus	genus	Tracheophyta	Plantae
-2821	x6L	accepted	Philadelphus coronarius	species	Tracheophyta	Plantae
-2822	x6L	accepted	Philadelphus microphyllus	species	Tracheophyta	Plantae
-2823	x6L	accepted	Philadelphus pubescens	species	Tracheophyta	Plantae
+2821	x6	accepted	Philadelphus coronarius	species	Tracheophyta	Plantae
+2822	x6	accepted	Philadelphus microphyllus	species	Tracheophyta	Plantae
+2823	x6	accepted	Philadelphus pubescens	species	Tracheophyta	Plantae
 2824	2901	accepted	Phleum	genus	Tracheophyta	Plantae
 2825	2901	accepted	Phleum arenarium	species	Tracheophyta	Plantae
 4012	2901	accepted	Phleum pratense	species	Tracheophyta	Plantae
@@ -2408,7 +2390,7 @@ SYN4016	4016	synonym	Phyteuma spicatum spicatum	subspecies
 2835	1439	accepted	Phyteuma spicatum subsp. spicatum	subspecies	Tracheophyta	Plantae
 2836	2839	accepted	Phytolacca	genus	Tracheophyta	Plantae
 2837	2839	accepted	Phytolacca americana	species	Tracheophyta	Plantae
-2839	xD	accepted	Phytolaccaceae	family	Tracheophyta	Plantae
+2839	x4	accepted	Phytolaccaceae	family	Tracheophyta	Plantae
 2838	2839	accepted	Phytolacca esculenta	species	Tracheophyta	Plantae
 2840	2856	accepted	Picea	genus	Tracheophyta	Plantae
 2841	2856	accepted	Picea abies	species	Tracheophyta	Plantae
@@ -2418,15 +2400,14 @@ SYN4016	4016	synonym	Phyteuma spicatum spicatum	subspecies
 2845	2856	accepted	Picea sitchensis	species	Tracheophyta	Plantae
 2846	1280	accepted	Picris	genus	Tracheophyta	Plantae
 2847	1280	accepted	Picris echioides	species	Tracheophyta	Plantae
-2848	x6D	accepted	Picris hieracioides	species	Tracheophyta	Plantae
-2849	x84	accepted	Pilularia	genus	Tracheophyta	Plantae
-2850	x9K	accepted	Pilularia globulifera	species	Tracheophyta	Plantae
+2848	x6	accepted	Picris hieracioides	species	Tracheophyta	Plantae
+2850	x6	accepted	Pilularia globulifera	species	Tracheophyta	Plantae
 2851	2627	accepted	Pimenta dioica	species	Tracheophyta	Plantae
 2852	1198	accepted	Pimpinella	genus	Tracheophyta	Plantae
 2853	1198	accepted	Pimpinella anisum	species	Tracheophyta	Plantae
 2854	1198	accepted	Pimpinella major	species	Tracheophyta	Plantae
 2855	1198	accepted	Pimpinella saxifraga	species	Tracheophyta	Plantae
-2856	xG	accepted	Pinaceae	family	Tracheophyta	Plantae
+2856	x4	accepted	Pinaceae	family	Tracheophyta	Plantae
 2857	2394	accepted	Pinguicula	genus	Tracheophyta	Plantae
 2858	2394	accepted	Pinguicula vulgaris	species	Tracheophyta	Plantae
 2859	2856	accepted	Pinus	genus	Tracheophyta	Plantae
@@ -2442,14 +2423,14 @@ SYN4016	4016	synonym	Phyteuma spicatum spicatum	subspecies
 2869	2856	accepted	Pinus strobus	species	Tracheophyta	Plantae
 2870	2856	accepted	Pinus sylvestris	species	Tracheophyta	Plantae
 2871	2873	accepted	Piper	genus	Tracheophyta	Plantae
-2873	x3P	accepted	Piperaceae	family	Tracheophyta	Plantae
+2873	x4	accepted	Piperaceae	family	Tracheophyta	Plantae
 2872	2873	accepted	Piper nigrum	species	Tracheophyta	Plantae
 2874	1999	accepted	Pisum	genus	Tracheophyta	Plantae
 2875	1999	accepted	Pisum sativum	species	Tracheophyta	Plantae
 SYN4017	4017	synonym	Pisum sativum sativum	subspecies		
 2876	1999	accepted	Pisum sativum subsp. sativum	subspecies	Tracheophyta	Plantae
 x4		accepted	Plantae	kingdom		
-2877	xJ	accepted	Plantaginaceae	family	Tracheophyta	Plantae
+2877	x4	accepted	Plantaginaceae	family	Tracheophyta	Plantae
 2878	2877	accepted	Plantago	genus	Tracheophyta	Plantae
 2879	2877	accepted	Plantago arenaria	species	Tracheophyta	Plantae
 2880	2877	accepted	Plantago coronopus	species	Tracheophyta	Plantae
@@ -2461,7 +2442,7 @@ SYN4019	4019	synonym	Plantago major pleiosperma	subspecies
 2882	2877	accepted	Plantago major subsp. major	subspecies	Tracheophyta	Plantae
 2883	2877	accepted	Plantago maritima	species	Tracheophyta	Plantae
 2884	2877	accepted	Plantago media	species	Tracheophyta	Plantae
-2885	x73	accepted	Platanaceae	family	Tracheophyta	Plantae
+2885	x4	accepted	Platanaceae	family	Tracheophyta	Plantae
 2886	2706	accepted	Platanthera	genus	Tracheophyta	Plantae
 4020	2706	accepted	Platanthera bifolia	species	Tracheophyta	Plantae
 SYN4020	4020	synonym	Platanthera bifolia chlorantha	infraspecific name		
@@ -2470,14 +2451,14 @@ SYN4020	4020	synonym	Platanthera bifolia chlorantha	infraspecific name
 SYN4021	4021	synonym	Platanus × hybrida	species		
 2888	2885	accepted	Platanus hispanica	species	Tracheophyta	Plantae
 2889	2885	accepted	Platanus orientalis	species	Tracheophyta	Plantae
-2890	xD	accepted	Plumbaginaceae	family	Tracheophyta	Plantae
+2890	x4	accepted	Plumbaginaceae	family	Tracheophyta	Plantae
 4023	2901	accepted	Poa	genus	Tracheophyta	Plantae
 4022	2901	accepted	Poa angustifolia	species	Tracheophyta	Plantae
 2891	2901	accepted	Poa annua	species	Tracheophyta	Plantae
 2892	2901	accepted	Poa bulbosa	species	Tracheophyta	Plantae
 2893	2901	accepted	Poa bulbosa var. bulbosa	variety	Tracheophyta	Plantae
 2894	2901	accepted	Poa bulbosa var. vivipara	variety	Tracheophyta	Plantae
-2901	xB	accepted	Poaceae	family	Tracheophyta	Plantae
+2901	x4	accepted	Poaceae	family	Tracheophyta	Plantae
 2895	2901	accepted	Poa chaixii	species	Tracheophyta	Plantae
 2896	2901	accepted	Poa compressa	species	Tracheophyta	Plantae
 2897	2901	accepted	Poa nemoralis	species	Tracheophyta	Plantae
@@ -2485,20 +2466,20 @@ SYN4021	4021	synonym	Platanus × hybrida	species
 2899	2901	accepted	Poa pratensis	species	Tracheophyta	Plantae
 SYN4023	4023	synonym	Poa pratensis angustifolia	subspecies		
 2900	2901	accepted	Poa trivialis	species	Tracheophyta	Plantae
-2902	x4S	accepted	Polemoniaceae	family	Tracheophyta	Plantae
+2902	x4	accepted	Polemoniaceae	family	Tracheophyta	Plantae
 2903	2902	accepted	Polemonium	genus	Tracheophyta	Plantae
 2904	2902	accepted	Polemonium caeruleum	species	Tracheophyta	Plantae
 2905	1120	accepted	Polycnemum	genus	Tracheophyta	Plantae
 2906	1120	accepted	Polycnemum arvense	species	Tracheophyta	Plantae
 2907	1120	accepted	Polycnemum majus	species	Tracheophyta	Plantae
 2908	2914	accepted	Polygala	genus	Tracheophyta	Plantae
-2914	x3C	accepted	Polygalaceae	family	Tracheophyta	Plantae
+2914	x4	accepted	Polygalaceae	family	Tracheophyta	Plantae
 2909	2914	accepted	Polygala comosa	species	Tracheophyta	Plantae
 2910	2914	accepted	Polygala serpyllifolia	species	Tracheophyta	Plantae
 2911	2914	accepted	Polygala vulgaris	species	Tracheophyta	Plantae
 2912	2914	accepted	Polygala vulgaris var. dunensis	variety	Tracheophyta	Plantae
 2913	2914	accepted	Polygala vulgaris var. vulgaris	variety	Tracheophyta	Plantae
-2915	xD	accepted	Polygonaceae	family	Tracheophyta	Plantae
+2915	x4	accepted	Polygonaceae	family	Tracheophyta	Plantae
 2916	2423	accepted	Polygonatum	genus	Tracheophyta	Plantae
 2920	2423	accepted	Polygonatum × hybridum	species	Tracheophyta	Plantae
 2917	2423	accepted	Polygonatum multiflorum	species	Tracheophyta	Plantae
@@ -2526,22 +2507,22 @@ SYN4038	4038	synonym	Polygonum oxyspermum subsp. raii )	subspecies
 SYN4039	4039	synonym	Polygonum polystachyum	species		
 SYN4040	4040	synonym	Polygonum sachalinense	species		
 2924	2915	accepted	Polygonum viviparum	species	Tracheophyta	Plantae
-2925	x48	accepted	Polypodiaceae	family	Tracheophyta	Plantae
+2925	x4	accepted	Polypodiaceae	family	Tracheophyta	Plantae
 2926	2925	accepted	Polypodium	genus	Tracheophyta	Plantae
 4041	2925	accepted	Polypodium interjectum	species	Tracheophyta	Plantae
-2927	x75	accepted	Polypodium vulgare	species	Tracheophyta	Plantae
+2927	x6	accepted	Polypodium vulgare	species	Tracheophyta	Plantae
 SYN4041	4041	synonym	Polypodium vulgare morph interjectum	morph		
 2928	2901	accepted	Polypogon	genus	Tracheophyta	Plantae
 2929	2901	accepted	Polypogon monspeliensis	species	Tracheophyta	Plantae
-2930	x44	accepted	Polypogon viridis	species	Tracheophyta	Plantae
+2930	x6	accepted	Polypogon viridis	species	Tracheophyta	Plantae
 2931	1859	accepted	Polystichum	genus	Tracheophyta	Plantae
 4043	1859	accepted	Polystichum aculeatum	species	Tracheophyta	Plantae
 SYN4042	4042	synonym	Polystichum aculeatum angulare	subspecies		
 4042	1859	accepted	Polystichum lonchitis	species	Tracheophyta	Plantae
-2932	x95	accepted	Polystichum setiferum	species	Tracheophyta	Plantae
+2932	x6	accepted	Polystichum setiferum	species	Tracheophyta	Plantae
 SYN4043	4043	synonym	Polystichum setiferum morph aculeatum	morph		
 2933	2935	accepted	Pontederia	genus	Tracheophyta	Plantae
-2935	x4V	accepted	Pontederiaceae	family	Tracheophyta	Plantae
+2935	x4	accepted	Pontederiaceae	family	Tracheophyta	Plantae
 2934	2935	accepted	Pontederia cordata	species	Tracheophyta	Plantae
 2936	3189	accepted	Populus	genus	Tracheophyta	Plantae
 4044	3189	accepted	Populus × canadensis	species	Tracheophyta	Plantae
@@ -2555,7 +2536,7 @@ SYN4044	4044	synonym	Populus canescens	species
 2942	3189	accepted	Populus tremula	species	Tracheophyta	Plantae
 2943	3189	accepted	Populus trichocarpa	species	Tracheophyta	Plantae
 2945	2947	accepted	Portulaca	genus	Tracheophyta	Plantae
-2947	xD	accepted	Portulacaceae	family	Tracheophyta	Plantae
+2947	x4	accepted	Portulacaceae	family	Tracheophyta	Plantae
 4045	2947	accepted	Portulaca oleracea	species	Tracheophyta	Plantae
 SYN4045	4045	synonym	Portulaca oleracea oleracea	subspecies		
 SYN4046	4046	synonym	Portulaca oleracea sativa	subspecies		
@@ -2566,7 +2547,7 @@ SYN4046	4046	synonym	Portulaca oleracea sativa	subspecies
 2967	2970	accepted	Potamogeton × decipiens	species	Tracheophyta	Plantae
 2968	2970	accepted	Potamogeton × fluitans	species	Tracheophyta	Plantae
 2969	2970	accepted	Potamogeton × sparganifolius	species	Tracheophyta	Plantae
-2970	xS	accepted	Potamogetonaceae	family	Tracheophyta	Plantae
+2970	x4	accepted	Potamogetonaceae	family	Tracheophyta	Plantae
 2949	2970	accepted	Potamogeton acutifolius	species	Tracheophyta	Plantae
 2950	2970	accepted	Potamogeton alpinus	species	Tracheophyta	Plantae
 4050	2970	accepted	Potamogeton berchtoldii	species	Tracheophyta	Plantae
@@ -2608,7 +2589,7 @@ SYN4051	4051	synonym	Potentilla palustris	species
 2982	3139	accepted	Potentilla tabernaemontani	species	Tracheophyta	Plantae
 SYN4052	4052	synonym	Potentilla verna	species		
 2984	2988	accepted	Primula	genus	Tracheophyta	Plantae
-2988	x4S	accepted	Primulaceae	family	Tracheophyta	Plantae
+2988	x4	accepted	Primulaceae	family	Tracheophyta	Plantae
 2985	2988	accepted	Primula elatior	species	Tracheophyta	Plantae
 2986	2988	accepted	Primula veris	species	Tracheophyta	Plantae
 2987	2988	accepted	Primula vulgaris	species	Tracheophyta	Plantae
@@ -2677,11 +2658,10 @@ SYN4070	4070	synonym	Prunus domestica insititia	subspecies
 3013	2901	accepted	Pseudosasa japonica	species	Tracheophyta	Plantae
 3765	2901	accepted	Pseudosasa sp.	species	Tracheophyta	Plantae
 3014	2856	accepted	Pseudotsuga	genus	Tracheophyta	Plantae
-3015	x7M	accepted	Pseudotsuga menziesii	species	Tracheophyta	Plantae
+3015	x6	accepted	Pseudotsuga menziesii	species	Tracheophyta	Plantae
 3016	3922	accepted	Pteridium	genus	Tracheophyta	Plantae
 3017	3922	accepted	Pteridium aquilinum	species	Tracheophyta	Plantae
-3737	x8X	accepted	Pteridophyta	genus	Tracheophyta	Plantae
-3018	x4Z	accepted	Pteris cretica	species	Tracheophyta	Plantae
+3018	x6	accepted	Pteris cretica	species	Tracheophyta	Plantae
 3019	2298	accepted	Pterocarya	genus	Tracheophyta	Plantae
 3020	2901	accepted	Puccinellia	genus	Tracheophyta	Plantae
 3021	2901	accepted	Puccinellia distans	species	Tracheophyta	Plantae
@@ -2709,7 +2689,7 @@ SYN4073	4073	synonym	Pulmonaria angustifolia	species
 3037	2423	accepted	Puschkinia scilloides	species	Tracheophyta	Plantae
 3038	3139	accepted	Pyracantha coccinea	species	Tracheophyta	Plantae
 3039	1944	accepted	Pyrola	genus	Tracheophyta	Plantae
-3042	x4S	accepted	Pyrolaceae	family	Tracheophyta	Plantae
+3042	x4	accepted	Pyrolaceae	family	Tracheophyta	Plantae
 3040	1944	accepted	Pyrola minor	species	Tracheophyta	Plantae
 3041	1944	accepted	Pyrola rotundifolia	species	Tracheophyta	Plantae
 3043	3139	accepted	Pyrus	genus	Tracheophyta	Plantae
@@ -2725,7 +2705,7 @@ SYN4073	4073	synonym	Pulmonaria angustifolia	species
 3052	2000	accepted	Quercus rubra	species	Tracheophyta	Plantae
 3054	2435	accepted	Radiola	genus	Tracheophyta	Plantae
 3055	2435	accepted	Radiola linoides	species	Tracheophyta	Plantae
-3056	x3H	accepted	Ranunculaceae	family	Tracheophyta	Plantae
+3056	x4	accepted	Ranunculaceae	family	Tracheophyta	Plantae
 3057	3056	accepted	Ranunculus	genus	Tracheophyta	Plantae
 3782	3056	accepted	Ranunculus (Batrachium)	subgenus	Tracheophyta	Plantae
 3081	3056	accepted	Ranunculus (Ranunculus)	subgenus	Tracheophyta	Plantae
@@ -2768,10 +2748,10 @@ SYN4079	4079	synonym	Ranunculus polyanthemos polyanthemoides	subspecies
 3087	3848	accepted	Rapistrum rugosum	species	Tracheophyta	Plantae
 3088	3092	accepted	Reseda	genus	Tracheophyta	Plantae
 3089	3092	accepted	Reseda alba	species	Tracheophyta	Plantae
-3092	x3K	accepted	Resedaceae	family	Tracheophyta	Plantae
+3092	x4	accepted	Resedaceae	family	Tracheophyta	Plantae
 3090	3092	accepted	Reseda lutea	species	Tracheophyta	Plantae
 3091	3092	accepted	Reseda luteola	species	Tracheophyta	Plantae
-3093	x39	accepted	Rhamnaceae	family	Tracheophyta	Plantae
+3093	x4	accepted	Rhamnaceae	family	Tracheophyta	Plantae
 3094	3093	accepted	Rhamnus	genus	Tracheophyta	Plantae
 4080	3093	accepted	Rhamnus cathartica	species	Tracheophyta	Plantae
 SYN4080	4080	synonym	Rhamnus catharticus	species		
@@ -2794,14 +2774,13 @@ SYN4082	4082	synonym	Rhinanthus serotinus	species
 3107	1792	accepted	Rhynchospora	genus	Tracheophyta	Plantae
 3108	1792	accepted	Rhynchospora alba	species	Tracheophyta	Plantae
 3109	1792	accepted	Rhynchospora fusca	species	Tracheophyta	Plantae
-3110	xX	accepted	Ribes	genus	Tracheophyta	Plantae
-3111	xX	accepted	Ribes alpinum	species	Tracheophyta	Plantae
-3112	xX	accepted	Ribes nigrum	species	Tracheophyta	Plantae
-3113	xX	accepted	Ribes odoratum	species	Tracheophyta	Plantae
-3114	xX	accepted	Ribes rubrum	species	Tracheophyta	Plantae
-3115	xX	accepted	Ribes sanguineum	species	Tracheophyta	Plantae
-3116	xX	accepted	Ribes spicatum	species	Tracheophyta	Plantae
-3117	xX	accepted	Ribes uva-crispa	species	Tracheophyta	Plantae
+3111	x6	accepted	Ribes alpinum	species	Tracheophyta	Plantae
+3112	x6	accepted	Ribes nigrum	species	Tracheophyta	Plantae
+3113	x6	accepted	Ribes odoratum	species	Tracheophyta	Plantae
+3114	x6	accepted	Ribes rubrum	species	Tracheophyta	Plantae
+3115	x6	accepted	Ribes sanguineum	species	Tracheophyta	Plantae
+3116	x6	accepted	Ribes spicatum	species	Tracheophyta	Plantae
+3117	x6	accepted	Ribes uva-crispa	species	Tracheophyta	Plantae
 3118	1991	accepted	Ricinus	genus	Tracheophyta	Plantae
 3119	1991	accepted	Ricinus communis	species	Tracheophyta	Plantae
 3120	1999	accepted	Robinia	genus	Tracheophyta	Plantae
@@ -2818,8 +2797,8 @@ SYN4085	4085	synonym	Rorippa microphylla nasturtium-aquaticum	infraspecific name
 3128	3139	accepted	Rosa 'Hollandica'	cultivar	Tracheophyta	Plantae
 3129	3139	accepted	Rosa arvensis	species	Tracheophyta	Plantae
 3130	3139	accepted	Rosa canina	species	Tracheophyta	Plantae
-3139	x39	accepted	Rosaceae	family	Tracheophyta	Plantae
-3140	x39	accepted	Rosaceae-Pomoideae	family	Tracheophyta	Plantae
+3139	x4	accepted	Rosaceae	family	Tracheophyta	Plantae
+3140	x4	accepted	Rosaceae-Pomoideae	family	Tracheophyta	Plantae
 3131	3139	accepted	Rosa gallica	species	Tracheophyta	Plantae
 3132	3139	accepted	Rosa glauca	species	Tracheophyta	Plantae
 3133	3139	accepted	Rosa majalis	species	Tracheophyta	Plantae
@@ -2833,7 +2812,7 @@ SYN4085	4085	synonym	Rorippa microphylla nasturtium-aquaticum	infraspecific name
 3142	2347	accepted	Rosmarinus officinalis	species	Tracheophyta	Plantae
 3143	2901	accepted	Rostraria cristata	species	Tracheophyta	Plantae
 3144	3146	accepted	Rubia	genus	Tracheophyta	Plantae
-3146	x4X	accepted	Rubiaceae	family	Tracheophyta	Plantae
+3146	x4	accepted	Rubiaceae	family	Tracheophyta	Plantae
 3145	3146	accepted	Rubia tinctorum	species	Tracheophyta	Plantae
 3147	3139	accepted	Rubus	genus	Tracheophyta	Plantae
 3154	3139	accepted	Rubus (Rubus)	subgenus	Tracheophyta	Plantae
@@ -2873,11 +2852,10 @@ SYN4092	4092	synonym	Rumex obtusifolius transiens	subspecies
 3170	2915	accepted	Rumex sanguineus	species	Tracheophyta	Plantae
 3171	2915	accepted	Rumex scutatus	species	Tracheophyta	Plantae
 3172	2915	accepted	Rumex thyrsiflorus	species	Tracheophyta	Plantae
-3174	x5C	accepted	Ruppia	genus	Tracheophyta	Plantae
-3175	x5C	accepted	Ruppia cirrhosa	species	Tracheophyta	Plantae
-3176	x5C	accepted	Ruppia maritima	species	Tracheophyta	Plantae
+3175	x6	accepted	Ruppia cirrhosa	species	Tracheophyta	Plantae
+3176	x6	accepted	Ruppia maritima	species	Tracheophyta	Plantae
 3177	3179	accepted	Ruta	genus	Tracheophyta	Plantae
-3179	x3M	accepted	Rutaceae	family	Tracheophyta	Plantae
+3179	x4	accepted	Rutaceae	family	Tracheophyta	Plantae
 3178	3179	accepted	Ruta graveolens	species	Tracheophyta	Plantae
 3180	1538	accepted	Sagina	genus	Tracheophyta	Plantae
 4093	1538	accepted	Sagina apetala	species	Tracheophyta	Plantae
@@ -2891,7 +2869,7 @@ SYN4094	4094	synonym	Sagina apetala erecta	subspecies
 3186	1085	accepted	Sagittaria	genus	Tracheophyta	Plantae
 3187	1085	accepted	Sagittaria latifolia	species	Tracheophyta	Plantae
 3188	1085	accepted	Sagittaria sagittifolia	species	Tracheophyta	Plantae
-3189	x3R	accepted	Salicaceae	family	Tracheophyta	Plantae
+3189	x4	accepted	Salicaceae	family	Tracheophyta	Plantae
 3190	1120	accepted	Salicornia	genus	Tracheophyta	Plantae
 SYN4095	4095	synonym	Salicornia disarticulata	species		
 4096	1120	accepted	Salicornia europaea	species	Tracheophyta	Plantae
@@ -2934,7 +2912,7 @@ SYN4100	4100	synonym	Salsola kali ruthenica	subspecies
 3219	2347	accepted	Salvia verbenaca	species	Tracheophyta	Plantae
 3220	2347	accepted	Salvia verticillata	species	Tracheophyta	Plantae
 3221	3779	accepted	Salvinia	genus	Tracheophyta	Plantae
-3779	x48	accepted	Salviniaceae	family	Tracheophyta	Plantae
+3779	x4	accepted	Salviniaceae	family	Tracheophyta	Plantae
 3222	3779	accepted	Salvinia natans	species	Tracheophyta	Plantae
 3223	1444	accepted	Sambucus	genus	Tracheophyta	Plantae
 3224	1444	accepted	Sambucus canadensis	species	Tracheophyta	Plantae
@@ -2951,8 +2929,8 @@ SYN4101	4101	synonym	Sanguisorba minor balearica	subspecies
 3233	3139	accepted	Sanguisorba officinalis	species	Tracheophyta	Plantae
 3234	1198	accepted	Sanicula	genus	Tracheophyta	Plantae
 3235	1198	accepted	Sanicula europaea	species	Tracheophyta	Plantae
-3236	x7H	accepted	Santalaceae	family	Tracheophyta	Plantae
-3736	x3M	accepted	Sapindaceae	family	Tracheophyta	Plantae
+3236	x4	accepted	Santalaceae	family	Tracheophyta	Plantae
+3736	x4	accepted	Sapindaceae	family	Tracheophyta	Plantae
 3237	1538	accepted	Saponaria	genus	Tracheophyta	Plantae
 3238	1538	accepted	Saponaria ocymoides	species	Tracheophyta	Plantae
 3239	1538	accepted	Saponaria officinalis	species	Tracheophyta	Plantae
@@ -2963,7 +2941,7 @@ SYN4103	4103	synonym	Satureja acinos	species
 SYN4104	4104	synonym	Satureja vulgaris	species		
 3240	1280	accepted	Saussurea	genus	Tracheophyta	Plantae
 3241	3246	accepted	Saxifraga	genus	Tracheophyta	Plantae
-3246	xV	accepted	Saxifragaceae	family	Tracheophyta	Plantae
+3246	x4	accepted	Saxifragaceae	family	Tracheophyta	Plantae
 3242	3246	accepted	Saxifraga granulata	species	Tracheophyta	Plantae
 3243	3246	accepted	Saxifraga granulata cv.	cultivar	Tracheophyta	Plantae
 3244	3246	accepted	Saxifraga hirculus	species	Tracheophyta	Plantae
@@ -2972,9 +2950,8 @@ SYN4104	4104	synonym	Satureja vulgaris	species
 3248	1444	accepted	Scabiosa columbaria	species	Tracheophyta	Plantae
 3249	1198	accepted	Scandix	genus	Tracheophyta	Plantae
 3250	1198	accepted	Scandix pecten-veneris	species	Tracheophyta	Plantae
-3251	x7C	accepted	Scheuchzeria	genus	Tracheophyta	Plantae
-3252	x7C	accepted	Scheuchzeria palustris	species	Tracheophyta	Plantae
-3253	xS	accepted	Scheuzeriaceae	family	Tracheophyta	Plantae
+3252	x6	accepted	Scheuchzeria palustris	species	Tracheophyta	Plantae
+3253	x4	accepted	Scheuzeriaceae	family	Tracheophyta	Plantae
 3254	1792	accepted	Schoenoplectus	genus	Tracheophyta	Plantae
 4118	1792	accepted	Schoenoplectus × carinatus	species	Tracheophyta	Plantae
 3255	1792	accepted	Schoenoplectus flevensis	species	Tracheophyta	Plantae
@@ -3023,7 +3000,7 @@ SYN4120	4120	synonym	Scleranthus annuus polycarpos	subspecies
 3275	3808	accepted	Scrophularia auriculata	species	Tracheophyta	Plantae
 SYN4121	4121	synonym	Scrophularia auriculata umbrosa	infraspecific name		
 3276	3808	accepted	Scrophularia canina	species	Tracheophyta	Plantae
-3808	xJ	accepted	Scrophulariaceae	family	Tracheophyta	Plantae
+3808	x4	accepted	Scrophulariaceae	family	Tracheophyta	Plantae
 3277	3808	accepted	Scrophularia nodosa	species	Tracheophyta	Plantae
 4121	3808	accepted	Scrophularia umbrosa	species	Tracheophyta	Plantae
 SYN4122	4122	synonym	Scrophularia umbrosa neesii	subspecies		
@@ -3123,7 +3100,7 @@ SYN4137	4137	synonym	Silene latifolia subsp. alba )	subspecies
 3342	1538	accepted	Silene vulgaris	species	Tracheophyta	Plantae
 3344	1280	accepted	Silybum	genus	Tracheophyta	Plantae
 3345	1280	accepted	Silybum marianum	species	Tracheophyta	Plantae
-3346	x3M	accepted	Simaroubaceae	family	Tracheophyta	Plantae
+3346	x4	accepted	Simaroubaceae	family	Tracheophyta	Plantae
 3347	3848	accepted	Sinapis	genus	Tracheophyta	Plantae
 3348	3848	accepted	Sinapis alba	species	Tracheophyta	Plantae
 3349	3848	accepted	Sinapis arvensis	species	Tracheophyta	Plantae
@@ -3144,7 +3121,7 @@ SYN4139	4139	synonym	Sium erectum	species
 3361	1198	accepted	Smyrnium	genus	Tracheophyta	Plantae
 3362	1198	accepted	Smyrnium olusatrum	species	Tracheophyta	Plantae
 3363	1198	accepted	Smyrnium perfoliatum	species	Tracheophyta	Plantae
-3364	x46	accepted	Solanaceae	family	Tracheophyta	Plantae
+3364	x4	accepted	Solanaceae	family	Tracheophyta	Plantae
 3365	3364	accepted	Solanum	genus	Tracheophyta	Plantae
 3366	3364	accepted	Solanum dulcamara	species	Tracheophyta	Plantae
 3962	3364	accepted	Solanum lycopersicum	species	Tracheophyta	Plantae
@@ -3181,7 +3158,7 @@ SYN4142	4142	synonym	Solanum nitidibaccatum	species
 3391	2901	accepted	Sorghum	genus	Tracheophyta	Plantae
 3392	2901	accepted	Sorghum bicolor	species	Tracheophyta	Plantae
 3393	2901	accepted	Sorghum halepense	species	Tracheophyta	Plantae
-3394	xB	accepted	Sparganiaceae	family	Tracheophyta	Plantae
+3394	x4	accepted	Sparganiaceae	family	Tracheophyta	Plantae
 3395	3394	accepted	Sparganium	genus	Tracheophyta	Plantae
 3396	3394	accepted	Sparganium angustifolium	species	Tracheophyta	Plantae
 4145	3394	accepted	Sparganium emersum	species	Tracheophyta	Plantae
@@ -3209,8 +3186,7 @@ SYN4148	4148	synonym	Spergularia maritima	species
 3408	1538	accepted	Spergularia rubra	species	Tracheophyta	Plantae
 4147	1538	accepted	Spergularia salina	species	Tracheophyta	Plantae
 3853	1538	accepted	Spergularia segetalis	species	Tracheophyta	Plantae
-3409	x59	accepted	Sphagnum	genus	Bryophyta	Plantae
-3410	x59	accepted	Sphagnum imbricatum	species	Bryophyta	Plantae
+3410	x53	accepted	Sphagnum imbricatum	species	Bryophyta	Plantae
 3411	1120	accepted	Spinacia	genus	Tracheophyta	Plantae
 3412	1120	accepted	Spinacia oleracea	species	Tracheophyta	Plantae
 3413	3139	accepted	Spiraea	genus	Tracheophyta	Plantae
@@ -3285,18 +3261,16 @@ SYN4153	4153	synonym	Stellaria nemorum subsp. glochidisperma	subspecies
 3472	1280	accepted	Taraxacum palustre	species	Tracheophyta	Plantae
 3473	1280	accepted	Taraxacum taeniatum	species	Tracheophyta	Plantae
 3474	1280	accepted	Taraxacum tortilobum	species	Tracheophyta	Plantae
-3475	xG	accepted	Taxaceae	family	Tracheophyta	Plantae
+3475	x4	accepted	Taxaceae	family	Tracheophyta	Plantae
 3476	1774	accepted	Taxodium	genus	Tracheophyta	Plantae
 3477	1774	accepted	Taxodium distichum	species	Tracheophyta	Plantae
 3478	3475	accepted	Taxus	genus	Tracheophyta	Plantae
 3479	3475	accepted	Taxus baccata	species	Tracheophyta	Plantae
-3480	x66	accepted	Tectochara	genus	Charophyta	Plantae
 3481	3848	accepted	Teesdalia	genus	Tracheophyta	Plantae
 3482	3848	accepted	Teesdalia nudicaulis	species	Tracheophyta	Plantae
 3483	3246	accepted	Tellima grandiflora	species	Tracheophyta	Plantae
 4128	1280	accepted	Tephroseris palustris	species	Tracheophyta	Plantae
-3484	x5W	accepted	Tetragonia	genus	Tracheophyta	Plantae
-3485	x5W	accepted	Tetragonia tetragonioides	species	Tracheophyta	Plantae
+3485	x6	accepted	Tetragonia tetragonioides	species	Tracheophyta	Plantae
 3486	1999	accepted	Tetragonolobus	genus	Tracheophyta	Plantae
 3487	1999	accepted	Tetragonolobus maritimus	species	Tracheophyta	Plantae
 3488	2347	accepted	Teucrium	genus	Tracheophyta	Plantae
@@ -3313,7 +3287,7 @@ SYN4156	4156	synonym	Teucrium chamaedrys germanicum	subspecies
 3494	3056	accepted	Thalictrum aquilegiifolia	species	Tracheophyta	Plantae
 3495	3056	accepted	Thalictrum flavum	species	Tracheophyta	Plantae
 3497	3056	accepted	Thalictrum minus	species	Tracheophyta	Plantae
-3498	x48	accepted	Thelypteridaceae	family	Tracheophyta	Plantae
+3498	x4	accepted	Thelypteridaceae	family	Tracheophyta	Plantae
 3499	3498	accepted	Thelypteris	genus	Tracheophyta	Plantae
 SYN4157	4157	synonym	Thelypteris dryopteris	species		
 3500	3498	accepted	Thelypteris palustris	species	Tracheophyta	Plantae
@@ -3331,7 +3305,7 @@ SYN4160	4160	synonym	Thlaspi alpestre	species
 3508	1774	accepted	Thuja	genus	Tracheophyta	Plantae
 3509	1774	accepted	Thuja occidentalis	species	Tracheophyta	Plantae
 3510	1774	accepted	Thuja plicata	species	Tracheophyta	Plantae
-3511	xZ	accepted	Thymelaeaceae	family	Tracheophyta	Plantae
+3511	x4	accepted	Thymelaeaceae	family	Tracheophyta	Plantae
 3512	2347	accepted	Thymus	genus	Tracheophyta	Plantae
 3513	2347	accepted	Thymus praecox	species	Tracheophyta	Plantae
 3514	2347	accepted	Thymus pulegioides	species	Tracheophyta	Plantae
@@ -3339,20 +3313,19 @@ SYN4160	4160	synonym	Thlaspi alpestre	species
 3516	2347	accepted	Thymus vulgaris	species	Tracheophyta	Plantae
 3517	2534	accepted	Tilia	genus	Tracheophyta	Plantae
 3520	2534	accepted	Tilia × vulgaris	species	Tracheophyta	Plantae
-3521	xZ	accepted	Tiliaceae	family	Tracheophyta	Plantae
+3521	x4	accepted	Tiliaceae	family	Tracheophyta	Plantae
 3518	2534	accepted	Tilia cordata	species	Tracheophyta	Plantae
 3519	2534	accepted	Tilia platyphyllos	species	Tracheophyta	Plantae
 SYN4161	4161	synonym	Tillaea muscosa	species		
 3522	2423	accepted	Tofieldia	genus	Tracheophyta	Plantae
-3523	x66	accepted	Tolypella	genus	Charophyta	Plantae
-3524	x66	accepted	Tolypella glomerata	species	Charophyta	Plantae
+3524	x5F	accepted	Tolypella glomerata	species	Charophyta	Plantae
 3525	1198	accepted	Torilis	genus	Tracheophyta	Plantae
 3526	1198	accepted	Torilis arvensis	species	Tracheophyta	Plantae
 3527	1198	accepted	Torilis japonica	species	Tracheophyta	Plantae
 3528	1198	accepted	Torilis nodosa	species	Tracheophyta	Plantae
 3529	1439	accepted	Trachelium caeruleum	species	Tracheophyta	Plantae
 x6	x4	accepted	Tracheophyta	phylum		Plantae
-3530	x6V	accepted	Tradescantia virginiana	species	Tracheophyta	Plantae
+3530	x6	accepted	Tradescantia virginiana	species	Tracheophyta	Plantae
 3531	1280	accepted	Tragopogon	genus	Tracheophyta	Plantae
 3532	1280	accepted	Tragopogon dubius	species	Tracheophyta	Plantae
 3533	1280	accepted	Tragopogon porrifolius	species	Tracheophyta	Plantae
@@ -3362,7 +3335,7 @@ SYN4163	4163	synonym	Tragopogon pratensis pratensis	subspecies
 4162	1280	accepted	Tragopogon pratensis subsp. orientalis	subspecies	Tracheophyta	Plantae
 4163	1280	accepted	Tragopogon pratensis subsp. pratensis	subspecies	Tracheophyta	Plantae
 3535	2509	accepted	Trapa	genus	Tracheophyta	Plantae
-3537	x35	accepted	Trapaceae	family	Tracheophyta	Plantae
+3537	x4	accepted	Trapaceae	family	Tracheophyta	Plantae
 3536	2509	accepted	Trapa natans	species	Tracheophyta	Plantae
 4106	1792	accepted	Trichophorum cespitosum	species	Tracheophyta	Plantae
 4107	1792	accepted	Trichophorum cespitosus subsp. cespitosus	subspecies	Tracheophyta	Plantae
@@ -3420,19 +3393,19 @@ SYN4166	4166	synonym	Turritis glabra	species
 3584	3589	accepted	Typha	genus	Tracheophyta	Plantae
 3588	3589	accepted	Typha × glauca	species	Tracheophyta	Plantae
 3585	3589	accepted	Typha angustifolia	species	Tracheophyta	Plantae
-3589	xB	accepted	Typhaceae	family	Tracheophyta	Plantae
+3589	x4	accepted	Typhaceae	family	Tracheophyta	Plantae
 3586	3589	accepted	Typha latifolia	species	Tracheophyta	Plantae
 3587	3589	accepted	Typha minima	species	Tracheophyta	Plantae
 3590	1999	accepted	Ulex	genus	Tracheophyta	Plantae
 3591	1999	accepted	Ulex europaeus	species	Tracheophyta	Plantae
-3592	x39	accepted	Ulmaceae	family	Tracheophyta	Plantae
+3592	x4	accepted	Ulmaceae	family	Tracheophyta	Plantae
 3593	3592	accepted	Ulmus	genus	Tracheophyta	Plantae
 3597	3592	accepted	Ulmus × hollandica	species	Tracheophyta	Plantae
 3594	3592	accepted	Ulmus glabra	species	Tracheophyta	Plantae
 3595	3592	accepted	Ulmus laevis	species	Tracheophyta	Plantae
 3596	3592	accepted	Ulmus minor	species	Tracheophyta	Plantae
 3598	3602	accepted	Urtica	genus	Tracheophyta	Plantae
-3602	x39	accepted	Urticaceae	family	Tracheophyta	Plantae
+3602	x4	accepted	Urticaceae	family	Tracheophyta	Plantae
 3599	3602	accepted	Urtica dioica	species	Tracheophyta	Plantae
 3600	3602	accepted	Urtica pilulifera	species	Tracheophyta	Plantae
 3601	3602	accepted	Urtica urens	species	Tracheophyta	Plantae
@@ -3454,7 +3427,7 @@ SYN4167	4167	synonym	Vaccaria pyramidata	species
 3616	1944	accepted	Vaccinium uliginosum	species	Tracheophyta	Plantae
 3617	1944	accepted	Vaccinium vitis-idaea	species	Tracheophyta	Plantae
 3619	1444	accepted	Valeriana	genus	Tracheophyta	Plantae
-3622	x4Q	accepted	Valerianaceae	family	Tracheophyta	Plantae
+3622	x4	accepted	Valerianaceae	family	Tracheophyta	Plantae
 3620	1444	accepted	Valeriana dioica	species	Tracheophyta	Plantae
 3621	1444	accepted	Valeriana officinalis	species	Tracheophyta	Plantae
 3623	1444	accepted	Valerianella	genus	Tracheophyta	Plantae
@@ -3474,7 +3447,7 @@ SYN4167	4167	synonym	Vaccaria pyramidata	species
 3637	3808	accepted	Verbascum thapsus	species	Tracheophyta	Plantae
 3638	3641	accepted	Verbena	genus	Tracheophyta	Plantae
 3639	3641	accepted	Verbena bonariensis	species	Tracheophyta	Plantae
-3641	xJ	accepted	Verbenaceae	family	Tracheophyta	Plantae
+3641	x4	accepted	Verbenaceae	family	Tracheophyta	Plantae
 3640	3641	accepted	Verbena officinalis	species	Tracheophyta	Plantae
 3642	3808	accepted	Veronica	genus	Tracheophyta	Plantae
 3666	3808	accepted	Veronica × lackschewitzii	species	Tracheophyta	Plantae
@@ -3557,7 +3530,7 @@ SYN4187	4187	synonym	Viola × scabra	species
 SYN4181	4181	synonym	Viola calaminaria	species		
 3693	3706	accepted	Viola canina	species	Tracheophyta	Plantae
 4186	3706	accepted	Viola canina x riviniana	species	Tracheophyta	Plantae
-3706	x3R	accepted	Violaceae	family	Tracheophyta	Plantae
+3706	x4	accepted	Violaceae	family	Tracheophyta	Plantae
 3694	3706	accepted	Viola curtisii	species	Tracheophyta	Plantae
 SYN4182	4182	synonym	Viola curtisii coniophila	subspecies		
 SYN4183	4183	synonym	Viola curtisii stenochila	subspecies		
@@ -3577,10 +3550,10 @@ SYN4183	4183	synonym	Viola curtisii stenochila	subspecies
 3703	3706	accepted	Viola rupestris	species	Tracheophyta	Plantae
 3704	3706	accepted	Viola tricolor	species	Tracheophyta	Plantae
 3705	3706	accepted	Viola tricolor cv.	cultivar	Tracheophyta	Plantae
-3707	x7H	accepted	Viscaceae	family	Tracheophyta	Plantae
+3707	x4	accepted	Viscaceae	family	Tracheophyta	Plantae
 3708	3236	accepted	Viscum	genus	Tracheophyta	Plantae
 3709	3236	accepted	Viscum album	species	Tracheophyta	Plantae
-3710	x6G	accepted	Vitaceae	family	Tracheophyta	Plantae
+3710	x4	accepted	Vitaceae	family	Tracheophyta	Plantae
 3711	3710	accepted	Vitis	genus	Tracheophyta	Plantae
 3712	3710	accepted	Vitis sylvestris	species	Tracheophyta	Plantae
 3713	3710	accepted	Vitis vinifera	species	Tracheophyta	Plantae
@@ -3613,7 +3586,6 @@ SYN4192	4192	synonym	Zannichellia palustris pedicellata	subspecies
 SYN4193	4193	synonym	Zannichellia palustris subsp. polycarpa	subspecies		
 3730	2901	accepted	Zea	genus	Tracheophyta	Plantae
 3731	2901	accepted	Zea mays	species	Tracheophyta	Plantae
-3732	x8	accepted	Zingiberaceae	family	Tracheophyta	Plantae
-3733	x6N	accepted	Zostera	genus	Tracheophyta	Plantae
-3734	x6N	accepted	Zostera marina	species	Tracheophyta	Plantae
-3735	x6N	accepted	Zostera noltei	species	Tracheophyta	Plantae
+3732	x4	accepted	Zingiberaceae	family	Tracheophyta	Plantae
+3734	x6	accepted	Zostera marina	species	Tracheophyta	Plantae
+3735	x6	accepted	Zostera noltei	species	Tracheophyta	Plantae
