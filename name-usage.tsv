@@ -1,9 +1,9 @@
 ID	parentID	tatus	scientificName	rank	phylum	kingdom
-SYN1274	1274	synonym	Aster tradescantii	unranked		
-SYN1716	1716	synonym	Cornus alba	unranked		
+SYN1274	1274	synonym	Aster tradescantii	species		
+SYN1716	1715	synonym	Cornus alba	species		
 SYN1323	1323	synonym	Kochia	unranked		
-SYN3611	3611	synonym	Oxycoccus	unranked		
-SYN3332	3332	synonym	Cucubalus	unranked		
+SYN3610	3610	synonym	Oxycoccus	genus		
+SYN3331	3331	synonym	Cucubalus	genus		
 1174	1280	accepted	× Anthemicaria hampeana	species	Tracheophyta	Plantae
 1401	2901	accepted	× Calammophila baltica	species	Tracheophyta	Plantae
 2019	2901	accepted	× Festulolium braunii	species	Tracheophyta	Plantae
@@ -39,10 +39,9 @@ SYN3736	3736	synonym	Aceraceae	unranked
 1028	x4	accepted	Actinidiaceae	family	Tracheophyta	Plantae
 1026	1028	accepted	Actinidia chinensis	species	Tracheophyta	Plantae
 1027	1028	accepted	Actinidia deliciosa	species	Tracheophyta	Plantae
-SYN3737	3737	synonym	Adiantaceae	unranked		
-1030	1029	accepted	Adiantum capillus-veneris	species	Tracheophyta	Plantae
-1031	1029	accepted	Adiantum diaphanum	species	Tracheophyta	Plantae
-1032	1029	accepted	Adiantum raddianum	species	Tracheophyta	Plantae
+1030	x4	accepted	Adiantum capillus-veneris	species	Tracheophyta	Plantae
+1031	x4	accepted	Adiantum diaphanum	species	Tracheophyta	Plantae
+1032	x4	accepted	Adiantum raddianum	species	Tracheophyta	Plantae
 1033	3056	accepted	Adonis	genus	Tracheophyta	Plantae
 1034	3056	accepted	Adonis aestivalis	species	Tracheophyta	Plantae
 1035	3056	accepted	Adonis annua	species	Tracheophyta	Plantae
@@ -361,7 +360,7 @@ SYN3773	3773	synonym	Asplenium trichomanes trichomanes	subspecies
 1283	1999	accepted	Astragalus	genus	Tracheophyta	Plantae
 1284	1999	accepted	Astragalus glycyphyllos	species	Tracheophyta	Plantae
 1285	x4	accepted	Athyriaceae	family	Tracheophyta	Plantae
-1287	1286	accepted	Athyrium filix-femina	species	Tracheophyta	Plantae
+1287	x4	accepted	Athyrium filix-femina	species	Tracheophyta	Plantae
 1288	1120	accepted	Atriplex	genus	Tracheophyta	Plantae
 1290	1120	accepted	Atriplex glabriuscula	species	Tracheophyta	Plantae
 SYN3774	3774	synonym	Atriplex hastata	species		
@@ -2427,7 +2426,7 @@ SYN4016	4016	synonym	Phyteuma spicatum spicatum	subspecies
 2872	2873	accepted	Piper nigrum	species	Tracheophyta	Plantae
 2874	1999	accepted	Pisum	genus	Tracheophyta	Plantae
 2875	1999	accepted	Pisum sativum	species	Tracheophyta	Plantae
-SYN4017	4017	synonym	Pisum sativum sativum	subspecies		
+SYN2875	2875	synonym	Pisum sativum sativum	subspecies		
 2876	1999	accepted	Pisum sativum subsp. sativum	subspecies	Tracheophyta	Plantae
 x4		accepted	Plantae	kingdom		
 2877	x4	accepted	Plantaginaceae	family	Tracheophyta	Plantae
